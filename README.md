@@ -8,16 +8,16 @@ Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kiele
 
 Kurssi koostuu 8 osiosta. Kunkin osion tehtävien tekoon kannattaa varata aikaa noin 2-5 tuntia.
 
-| Osa     | Aihe               |
-| --------|--------------------|
-| Osa 1   | Tulostaminen       |
-| Osa 2   | Muuttujat          |
-| Osa 3   | Syötteen lukeminen |
-| Osa 4   | Ehtolauseet        |
-| Osa 5   | Toistolauseet      |
-| Osa 6   | Funktiot           |
-| Osa 7   | Oliot              |
-| Osa 8   | Listat             |
+| Osa              | Aihe               | Tehtäviä |
+| -----------------|--------------------|---------:|
+| [Osa 1](osa1.md) | Tulostaminen       | 5        |
+| Osa 2            | Muuttujat          |          |
+| Osa 3            | Syötteen lukeminen |          |
+| Osa 4            | Ehtolauseet        |          |
+| Osa 5            | Toistolauseet      |          |
+| Osa 6            | Funktiot           |          |
+| Osa 7            | Oliot              |          |
+| Osa 8            | Listat             |          |
 
 \
 \
