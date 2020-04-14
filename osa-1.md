@@ -86,3 +86,5 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    ```
 
    Aja ohjelma Kotlin-hiekkalaatikossa ja korjaa virheet hiekkalaatikon antamien virheilmoitusten mukaan.
+
+Kun olet saanut osan 1 tehtävät tehtyä, voit siirtyä [osaan 2](osa-2.md).
