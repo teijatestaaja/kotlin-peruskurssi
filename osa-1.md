@@ -7,7 +7,9 @@
 - Tutustut ohjelman suorittamiseen Kotlin-hiekkalaatikossa.
 - Osaat tulkita ja korjata ohjelman suorittamisessa aiheutuneita yksinkertaisia virheitä.
 
-[Kotlin-ohjelmointikielessä](https://kotlinlang.org/) komennolla print tulostetaan tekstiä näytölle:
+Tietokoneohjelmat, puhelimen sovellukset tai selaimen kautta toimivat sovellukset näyttävät monenlaisia viestejä käyttäjälle. Esimerkiksi mobiilisovellus voi vaatia sisäänkirjautumisen, ja jos käyttäjä kirjoittaa salasanansa väärin, mobiilisovellus näyttää käyttäjälle virheilmoituksen puhelimen näytöllä.
+
+[Kotlin-ohjelmointikielessä](https://kotlinlang.org/) tekstiä tulostetaan näytölle komennolla *print*:
 
 ```kotlin
 print("Hei!")
