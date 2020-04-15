@@ -7,7 +7,9 @@
 - Osaat tehdä yksinkertaisia laskutoimituksia.
 - Osaat suorittaa ohjelmia Kotlin-hiekkalaatikossa.
 
-Ohjelmointikielissä muuttujalla tarkoitetaan eräänlaista tietovarastoa, johon voidaan säilöä tietoa. Muuttuja voi viitata lähes minkä tyyppiseen tietoon tahansa. Muuttujalle tulee aina antaa nimi, ja muuttujaan asetetaan arvo yhtäsuuruusmerkillä. Kotlinissa muuttuja voidaan määritellä usealla eri tavalla. Yksi esimerkki muuttujasta:
+Ohjelmointikielissä muuttujalla tarkoitetaan eräänlaista tietovarastoa, johon voidaan säilöä tietoa. Muuttuja voi viitata lähes minkä tyyppiseen tietoon tahansa. Kaikki tietokoneohjelmat, työpöytäsovellukset, www-sovellukset ja mobiilisovellukset säilövät jonkinlaista tietoa. Esimerkiksi mobiilisovellus, johon kirjaudutaan sisälle voi tallentaa kirjautumistapahtumasta monenlaista tietoa sisäisiin muuttujiinsa.
+
+Muuttujalle tulee aina antaa nimi, ja muuttujaan asetetaan arvo yhtäsuuruusmerkillä. Kotlinissa muuttuja voidaan määritellä usealla eri tavalla. Yksi esimerkki muuttujasta:
 
 ```text
 val luku = 2
