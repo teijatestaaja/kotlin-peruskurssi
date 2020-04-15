@@ -186,7 +186,7 @@ Lopuksi tulosta summa näytölle.
 3. Kirjoita ohjelma, joka laskee ympyrän pinta-alan, kun ympyrän säde on 10.0.
 4. Kirjoita ohjelma, joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
 
-   **GURU-tehtävä**
+   **Guru-tehtävä**
 
 5. Kirjoita ohjelma, joka laskee lukujen 1-5 keskiarvon ja tulostaa sen näytölle.
 
@@ -258,7 +258,7 @@ Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-
    ja lähti koodaamaan.
    ```
 
-   **GURU-tehtävä**
+   **Guru-tehtävä**
 
 5. Kirjoita ohjelma, joka tulostaa näytölle seuraavan tulostuksen käyttäen merkkijonoja:
 
@@ -337,7 +337,7 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
 4. Kirjoita ohjelma, joka luo muuttujan, antaa sille arvon 100 ja tulostaa muuttujan. Tämän jälkeen ohjelma muuttaa saman muuttujan arvoksi 10 ja tulostaa muuttujan.
 
-   **GURU-tehtävä**
+   **Guru-tehtävä**
 
 5. Kirjoita ohjelma, joka laskee ja tulostaa seuraavien laskujen tulokset näytölle:
 

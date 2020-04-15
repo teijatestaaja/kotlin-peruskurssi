@@ -79,7 +79,7 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    Kotlinilla!
    ```
 
-   **GURU-tehtävä**
+   **Guru-tehtävä**
 
 5. Alla olevassa ohjelmassa on virhe:
 
