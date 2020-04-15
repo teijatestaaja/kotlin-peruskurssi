@@ -348,3 +348,5 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    10 / 5 = 2
    10 % 5 = 0
    ```
+
+Kun olet saanut osan 2 tehtävät tehtyä, voit siirtyä [osaan 3](osa-3.md).

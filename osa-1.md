@@ -55,7 +55,7 @@ fun main() {
 }
 ```
 
-Yllä oleva ohjelmakoodi on itseasiassa valmis ohjelma. Ohjelmakoodin lisäksi tarvitaan kuitenkin aina jonkinlainen ohjelmointiympäristö tai hiekkalaatikko, jossa ohjelma voidaan käynnistää eli ajaa. [Kotlin Playground](https://play.kotlinlang.org/) on verkossa toimiva niin sanottu hiekkalaatikko-ympäristö, jonka avulla voit tutkia ja harjoitella Kotlin-ohjelmointikielen pusteita ilman erillisen ohjelmointiympäristön asennusta tai tunnuksen luomista. Kotlin-hiekkalaatikossa voit ajaa turvallisesti koodinpätkiä sekä pieniä Kotlin-ohjelmia. Lisäksi voit selata koodinäytteitä suoraan selaimessa. Seuraavissa tehtävissä harjoittelet hiekkalaatikossa näytölle tulostamista.
+Yllä oleva ohjelmakoodi on itseasiassa valmis ohjelma. Ohjelmakoodin lisäksi tarvitaan kuitenkin aina jonkinlainen ohjelmointiympäristö tai hiekkalaatikko, jossa ohjelma voidaan käynnistää eli ajaa. [Kotlin Playground](https://play.kotlinlang.org/) on verkossa toimiva niin sanottu hiekkalaatikko-ympäristö, jonka avulla voit tutkia ja harjoitella Kotlin-ohjelmointikielen perusteita ilman erillisen ohjelmointiympäristön asennusta tai tunnuksen luomista. Kotlin-hiekkalaatikossa voit ajaa turvallisesti koodinpätkiä sekä pieniä Kotlin-ohjelmia. Lisäksi voit selata koodinäytteitä suoraan selaimessa. Seuraavissa tehtävissä harjoittelet hiekkalaatikossa näytölle tulostamista.
 
 ## Tehtävät
 
