@@ -57,6 +57,8 @@ Yllä oleva ohjelmakoodi on itseasiassa valmis ohjelma. Ohjelmakoodin lisäksi t
 
 ## Tehtävät
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
+
 1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi painamalla oikean laidan play-painiketta. Mitä ohjelma tulostaa?\
 Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelma tulostaa?
@@ -76,6 +78,8 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    Ohjelmoidaan
    Kotlinilla!
    ```
+
+   **GURU-tehtävä**
 
 5. Alla olevassa ohjelmassa on virhe:
 

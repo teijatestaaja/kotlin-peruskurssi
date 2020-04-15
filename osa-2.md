@@ -177,13 +177,18 @@ Tulos = 2.5
 
 ## Tehtävät kokonaisluku- ja liukulukumuuttujista
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
+
 1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Kirjoita ohjelma, joka laskee ja tulostaa kahden kokonaisluvun summan. Toisin sanoen, luo kaksi kokonaislukutyyppistä muuttujaa, ja laske niiden summa omaan muuttujaan. \
 Lopuksi tulosta summa näytölle.
 2. Kirjoita ohjelma, joka laskee ja tulostaa neliön pinta-alan, kun neliön sivun pituus on 10.0.
 3. Kirjoita ohjelma, joka laskee ympyrän pinta-alan, kun ympyrän säde on 10.0.
-4. Kirjoita ohjelma, joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
-5. Kirjoita ohjelma, joka laskee lukujen 1-5 keskiarvon ja tulosta se näytölle.
+4. Kirjoit , joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
+
+   **GURU-tehtävä**
+
+5. Kirjoita ohjelma, joka laskee lukujen 1-5 keskiarvon ja tulostaa sen näytölle.
 
 ## Merkki- ja merkkijonomuuttujat
 
@@ -240,16 +245,20 @@ Kotlinissa + operaattorin sijaan merkkijonoja yhdistetään yleensä niin sanott
 
 ## Tehtävät merkki- ja merkkijonomuuttujista
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
+
 1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-ohjelmointikielellä!
 2. Kirjoita ohjelma, joka tulostaa näytölle merkin X.
 3. Kirjoita ohjelma, joka luo merkkijonomuuttujan jonka arvo on Commodore, kokonaislukumuuttujan jonka arvo on 64 ja lopuksi tulostaa näytölle merkkijonon Commodore 64
-4. Kirjoita ohjelma, joka tulostaa näytölle tekstin kahdelle riville:
+4. Kirjoita ohjelma, joka tulostaa näytölle seuraavan tekstin kahdelle riville:
 
    ```kotlin
    Hän sanoi: "Kotlin-ohjelmointi on hauskaa!"
    ja lähti koodaamaan.
    ```
+
+   **GURU-tehtävä**
 
 5. Kirjoita ohjelma, joka tulostaa näytölle seuraavan tulostuksen käyttäen merkkijonoja:
 
@@ -263,7 +272,7 @@ Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-
 
 ## Totuusarvomuuttujat
 
-Kuten muissakin ohjelmointikielissä, myös Kotlinissa on käytössä totuusarvomuuttuja (Boolean). Totuusarvomuuttujaan voi asettaa vain arvo true tai false:
+Kuten muissakin ohjelmointikielissä, myös Kotlinissa on käytössä totuusarvomuuttuja (Boolean). Totuusarvomuuttujaan voi asettaa vain arvon true (tosi) tai false (epätosi):
 
 ```kotlin
 val ehto = true;
@@ -274,9 +283,11 @@ Palataan totuusarvomuuttujiin vielä myöhemmin tällä kurssilla.
 
 ## Yhteenveto
 
-Tässä kurssin osassa käsiteltiin Kotlin-ohjelmointikielen muuttujia. Seuraavissa tehtävissä harjoittelet lisää muuttujien määrittelyä, käyttöä ja muuttujien arvojen tulostamista. Valitse tehtävistä mieleinen taso, voit toki halutessasi tehdä kaikki tehtävät.
+Tässä kurssin osassa käsiteltiin Kotlin-ohjelmointikielen muuttujia. Tutustuimme muuttumattomiin ja muuttuviin muuttujiin, kokonaisluku- ja liukulukumuuttujiin, merkki- ja merkkijonomuuttujiin sekä totuusarvomuuttujiin. Seuraavissa tehtävissä harjoittelet lisää muuttujien määrittelyä, käyttöä ja muuttujien arvojen tulostamista. Valitse tehtävistä mieleinen taso, voit toki halutessasi tehdä kaikki tehtävät.
 
 ## Tehtävät koko osiosta
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
 1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
@@ -324,7 +335,11 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    abc
    ```
 
-4. Kirjoita ohjelma, joka laskee ja tulostaa seuraavien laskujen tulokset näytölle:
+4. Kirjoita ohjelma, joka luo muuttujan, antaa sille arvon 100 ja tulostaa muuttujan. Tämän jälkeen ohjelma muuttaa saman muuttujan arvoksi 10 ja tulostaa muuttujan.
+
+   **GURU-tehtävä**
+
+5. Kirjoita ohjelma, joka laskee ja tulostaa seuraavien laskujen tulokset näytölle:
 
    ```text
    10 + 5 = 15
@@ -333,5 +348,3 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    10 / 5 = 2
    10 % 5 = 0
    ```
-
-5. Kirjoita ohjelma, joka luo muuttujan, antaa sille arvon 100 ja tulostaa muuttujan. Tämän jälkeen ohjelma muuttaa saman muuttujan arvoksi 10 ja tulostaa muuttujan.
