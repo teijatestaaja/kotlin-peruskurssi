@@ -186,6 +186,10 @@ if (ika < 15) {
 }
 ```
 
+## Yhteenveto
+
+Tässä kurssin osassa käsiteltiin ehtolauseita Kotlin-ohjelmointikielessä. Tutustuimme jos-ehtolauseeseen, muuten-lauseeseen, loogisiin operaatioihin sekä vertailuoperaattoreihin. Seuraavissa tehtävissä harjoittelet ehtolauseiden analysointia, korjaamista sekä muodostamista.
+
 ## Tehtävät
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
