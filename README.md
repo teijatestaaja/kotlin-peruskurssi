@@ -6,7 +6,7 @@ Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kiele
 
 ## Sisältö
 
-Kurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-5 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
+Kurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
@@ -19,7 +19,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 | [Osa 1](osa-1.md) | Tulostaminen       | 5        |
 | [Osa 2](osa-2.md) | Muuttujat          | 15       |
 | [Osa 3](osa-3.md) | Ehtolauseet        | 10       |
-| Osa 4             | Toistolauseet      |          |
+| [Osa 4](osa-4.md) | Toistolauseet      |          |
 | Osa 5             | Funktiot           |          |
 |                   | Yhteensä           | 25       |
 
