@@ -166,23 +166,38 @@ Ehtolauseissa voidaan käyttää monenlaisia vertailuoperaattoreita, kun halutaa
 - == yhtä suuri kuin
 - != erisuuri kuin
 
-Seuraavassa on muutamia esimerkkejä vertailuoperaattoreiden käytöstä. Alla olevassa ohjelmakoodissa jos-ehtolauseen lauseke evaluoidaan todeksi, jos muuttujassa ika oleva arvo on suurempi tai yhtäsuuri kuin 18. Tällöin ohjelman suoritus siirtyy ehtolauseen määrittelemään lohkoon, ja näytölle tulostetaan teksti *Täysi-ikäinen*
+Seuraavassa on muutamia esimerkkejä vertailuoperaattoreiden käytöstä. Alla olevassa ohjelmakoodissa jos-ehtolauseen lauseke evaluoidaan todeksi, jos muuttujassa ika oleva arvo on suurempi tai yhtäsuuri kuin 18. Tällöin ohjelman suoritus siirtyy ehtolauseen määrittelemään lohkoon, ja näytölle tulostetaan teksti *Saat ajaa autolla*:
 
 ```kotlin
 val ika = 18
 if (ika >= 18) {
-  print("Täysi-ikäinen")
+  print("Saat ajaa autolla")
 }
 ```
 
-Seuraavassa esimerkissä evaluoidaan jos-ehtolauseke epätodeksi, ja tulostetaan else-lauseessa näytölle teksti *Saat ajaa mopolla!*
+Seuraavassa esimerkissä evaluoidaan jos-ehtolauseke epätodeksi, ja tulostetaan else-lauseessa näytölle teksti *Saat ajaa mopolla*:
 
 ```kotlin
 val ika = 15
 if (ika < 15) {
-  print("Et saa ajaa mopolla!")
+  print("Saat ajaa pyörällä")
 } else {
-  print("Saat ajaa mopolla!")
+  print("Saat ajaa mopolla")
+}
+```
+
+Seuraavassa esimerkissä tutkitaan useampia lausekkeita ketjuttamalla lauseita *else...if* -avainsanoilla. Koska ika-muuttujan arvona on 18, suoritaan vasta viimeinen muuten-lause joka tulostaa näytölle tekstin *Saat ajaa autolla*:
+
+```kotlin
+val ika = 18
+if (ika < 15) {
+  print("Saat ajaa pyörällä")
+} else if (ika >=15 && ika < 16) {
+  print("Saat ajaa mopolla")
+} else if (ika >=16 && ika < 18){
+  print("Saat ajaa kevytmoottoripyörällä")
+} else {
+  print("Saat ajaa autolla")  
 }
 ```
 

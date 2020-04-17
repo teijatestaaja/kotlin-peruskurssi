@@ -10,7 +10,7 @@ Kurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kann
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
-- kirjoitat itse ohjelmakoodia.
+- kirjoitat ohjelmakoodia.
 
 Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, joka vaatii hoksaamista tai osiossa opitun asian syvempää osaamista.
 
