@@ -19,9 +19,9 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 | [Osa 1](osa-1.md) | Tulostaminen       | 5        |
 | [Osa 2](osa-2.md) | Muuttujat          | 15       |
 | [Osa 3](osa-3.md) | Ehtolauseet        | 10       |
-| [Osa 4](osa-4.md) | Toistolauseet      |          |
+| [Osa 4](osa-4.md) | Toistolauseet      | 10       |
 | Osa 5             | Funktiot           |          |
-|                   | Yhteensä           | 30       |
+|                   | Yhteensä           | 40       |
 
 \
 \
