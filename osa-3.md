@@ -1,10 +1,11 @@
-# Osa 3: Ehtolauseet
+# Osa 3: Ehto- ja valintalauseet
 
 ## Oppimistavoitteet
 
 - Tunnet käsitteen ehtolause.
 - Osaat luoda ehtolauseita, joiden avulla ohjelmaan saadaan vaihtoehtoista toimintaa.
 - Tunnet ehtolauseissa tyypillisesti käytettävät vertailuoperaattorit ja loogiset operaatiot *ja*, *tai*, sekä *ei*.
+- Tunnet käsitteen valintalause.
 
 ## Jos-ehtolause
 
@@ -201,9 +202,49 @@ if (ika < 15) {
 }
 ```
 
+## Kun-valintalause
+
+Kun-valintalauseen muoto on seuraava:
+
+```kotlin
+when (tähän_tulee_lauseke) {
+    ehto_1 -> // Tähän tulee lähdekoodi
+    ehto_2 -> // Tähän tulee lähdekoodi
+    ...
+    else -> {
+              // Tähän tulee lähdekoodi
+    }
+}
+```
+
+Kun-lauseen suoritus alkaa siinä olevan lausekkeen arvon laskemisella. Sen jälkeen siirrytään siihen tapaukseen, josta löytyy arvoa vastaava vakiolauseke, ja suoritetaan siellä olevat lauseet. Jos arvo ei vastaa mitään vakiolauseketta, suoritetaan else-osan lauseet. Seuraavassa esimerkissä tutkitaan valinta-muuttujan arvoa. Valinnalla 1 ja 2 tulostaa niitä vastaavat tulosteet. Kaikilla muilla valinnoilla ohjelma tulostaa tekstin *tuntematon valinta*:
+
+```kotlin
+when (valinta) {
+  1 -> print("valitsit 1")
+  2 -> print("valitsit 2")
+  else -> {
+      print("tuntematon valinta")
+  }
+}
+```
+
+Edellä nähty ketjutettu if-lause ei välttämättä ole kovin hyvä tapauksissa, joissa valittavana on rajallinen määrä toisensa poissulkevia vaihtoehtoja.
+kun-lause toimii tässä tapauksessa paremmin, koska koodista tulee luettavampaa:
+
+```kotlin
+val ika = 18
+when (ika) {
+   in 1..14 -> print("Saat ajaa pyörällä")
+   15 -> print("Saat ajaa mopolla")
+   in 16..17 -> print("Saat ajaa kevytmoottoripyörällä")
+   else -> print("Saat ajaa autolla")
+}
+```
+
 ## Yhteenveto
 
-Tässä kurssin osassa käsiteltiin ehtolauseita Kotlin-ohjelmointikielessä. Tutustuimme jos-ehtolauseeseen, muuten-lauseeseen, loogisiin operaatioihin sekä vertailuoperaattoreihin. Seuraavissa tehtävissä harjoittelet ehtolauseiden analysointia, korjaamista sekä muodostamista.
+Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointikielessä. Tutustuimme jos-ehtolauseeseen, muuten-lauseeseen, loogisiin operaatioihin sekä vertailuoperaattoreihin. Lisäksi tutustuimme kun-valintalauseeseen Seuraavissa tehtävissä harjoittelet ehto- ja valintalauseiden analysointia, korjaamista sekä muodostamista.
 
 ## Tehtävät
 
@@ -264,7 +305,7 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ja korjaa ohjelmaa siten, että ohjelma tulostaa tekstin *Arvotaan luku*.
 5. Kirjoita ohjelma, joka luo muuttujan ja asettaa sille alkuarvon väliltä 0-100. Tämän jälkeen ohjelma tarkastaa muuttujan arvon, ja jos arvo on pienempi kuin 0, tulostaa merkkijonon *negatiivinen*, muuten tulostaa merkkijonon *positiivinen*.
-6. Kirjoita ohjelma joka tarkastaa, onko muuttujan arvona merkkijono *perjantai*. Jos on, ohjelma tulostaa näytölle tekstin *Pizza-perjantai!*
+6. Kirjoita ohjelma, joka toteuttaa tehtävän 1 toiminnallisuuden käyttäen when-lausetta.
 7. Kirjoita ohjelma, joka laskee ja tulostaa kahden luvun summan, jos molemmat luvut ovat suurempia kuin 0. Muuten ohjelma laskee ja tulostaa lukujen erotuksen.
 8. Kirjoita ohjelma, joka tulostaa merkkijonon *Peli päättyi!*, jos muuttujan luku arvo on yhtä suuri kuin 3.
 9. Kirjoita ohjelma, joka laskee ja tulostaa näytölle kahden luvun a ja b osamäärän, jos jaettava b on eri suuri kuin nolla.
