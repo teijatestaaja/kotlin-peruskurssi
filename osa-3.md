@@ -6,6 +6,7 @@
 - Osaat luoda ehtolauseita, joiden avulla ohjelmaan saadaan vaihtoehtoista toimintaa.
 - Tunnet ehtolauseissa tyypillisesti käytettävät vertailuoperaattorit ja loogiset operaatiot *ja*, *tai*, sekä *ei*.
 - Tunnet käsitteen valintalause.
+- Osaat luoda valintalauseita.
 
 ## Jos-ehtolause
 
