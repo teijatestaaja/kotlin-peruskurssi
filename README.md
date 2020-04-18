@@ -14,14 +14,14 @@ Kurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kann
 
 Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, joka vaatii hoksaamista tai osiossa opitun asian syvempää osaamista.
 
-| Osa               | Aihe               | Tehtäviä |
-| ------------------|--------------------|---------:|
-| [Osa 1](osa-1.md) | Tulostaminen       | 5        |
-| [Osa 2](osa-2.md) | Muuttujat          | 15       |
-| [Osa 3](osa-3.md) | Ehtolauseet        | 10       |
-| [Osa 4](osa-4.md) | Toistolauseet      | 10       |
-| Osa 5             | Funktiot           |          |
-|                   | Yhteensä           | 40       |
+| Osa               | Aihe                    | Tehtäviä |
+| ------------------|-------------------------|---------:|
+| [Osa 1](osa-1.md) | Tulostaminen            | 5        |
+| [Osa 2](osa-2.md) | Muuttujat               | 15       |
+| [Osa 3](osa-3.md) | Ehto- ja valintalauseet | 10       |
+| [Osa 4](osa-4.md) | Toistolauseet           | 10       |
+| Osa 5             | Funktiot                |          |
+|                   | Yhteensä                | 40       |
 
 \
 \
