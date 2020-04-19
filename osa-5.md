@@ -213,3 +213,5 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    **Guru-tehtävä**
 10. Kirjoita funktio, joka saa parametrinaan kokonaisluvun ja joka tulostaa kyseisen luvun käänteisluvun näytölle.
+
+Hienoa! Nyt olet suorittanut kurssin loppuun. Seuraavaksi voit suorittaa Kotlin jatkokurssin, joka on tulossa kesällä 2020 :)
