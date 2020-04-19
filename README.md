@@ -25,7 +25,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 
 ## Linkit
 
-- [Kotlin-hiekkalaatikko](play.kotlinlang.org)
+- [Kotlin-hiekkalaatikko](https://play.kotlinlang.org/)
 - [Kotlin dokumentaatio - perussyntaksi](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
 \
