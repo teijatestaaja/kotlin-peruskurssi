@@ -34,8 +34,6 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 - [Kotlin-hiekkalaatikko](https://play.kotlinlang.org/)
 - [Kotlin dokumentaatio - perussyntaksi](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
-\
-\
 (c) Teija Alasalmi 2020
 
 Kurssimateriaalin käyttäminen kaupallisiin tarkoituksiin tai opetusmateriaalina ilman lupaa on ehdottomasti kielletty!
