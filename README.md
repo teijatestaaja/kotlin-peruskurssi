@@ -2,17 +2,23 @@
 
 Kotlin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin.
 
-Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista.
+## Mikä Kotlin
+
+Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmointikieli, joka kehitettiin alun perin vuonna 2011. Kotlin-ohjelmointikielen takana on tsekkiläinen yritys JetBrains. Kotlinin kehittäjät suunnittelivat Kotlinista vaihtoehtoa Javalle, ja Kotlin onkin noussut suosituimmaksi ohjelmointikieleksi Android-kehityksessä Javan sijaan. Kielen suosiosta kertoo sekin, että vuonna 2019 Google nosti Kotlinin Android-käyttöjärjestelmän ensisijaiseksi ohjelmointikieleksi.
+
+## Esitiedot
+
+Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suuniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
 
 ## Sisältö
 
-Kurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
+Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
 - kirjoitat ohjelmakoodia.
 
-Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, joka vaatii hoksaamista tai osiossa opitun asian syvempää osaamista.
+Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, joka vaatii hoksaamista tai osiossa opitun asian syvempää osaamista. Kurssin tehtävät tehdään Kotlin-hiekkalaatikossa. Tehtävät voit halutessasi tehdä myös jollakin Kotlinia tukevalla editorilla tai ohjelmointiympäristöllä.
 
 | Osa               | Aihe                    | Tehtäviä |
 | ------------------|-------------------------|---------:|
