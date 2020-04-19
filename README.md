@@ -20,8 +20,13 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 | [Osa 2](osa-2.md) | Muuttujat               | 15       |
 | [Osa 3](osa-3.md) | Ehto- ja valintalauseet | 10       |
 | [Osa 4](osa-4.md) | Toistolauseet           | 10       |
-| Osa 5             | Funktiot                |          |
-|                   | Yhteensä                | 40       |
+| [Osa 5](osa-5.md) | Funktiot                | 10       |
+|                   | Yhteensä                | 50       |
+
+## Linkit
+
+- [Kotlin-hiekkalaatikko](play.kotlinlang.org)
+- [Kotlin dokumentaatio - perussyntaksi](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
 \
 \
