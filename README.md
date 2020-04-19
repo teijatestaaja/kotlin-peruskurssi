@@ -8,7 +8,7 @@ Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmo
 
 ## Esitiedot
 
-Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suuniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
+Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suunniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
 
 ## Sisältö
 
