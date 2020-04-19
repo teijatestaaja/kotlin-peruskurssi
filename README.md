@@ -32,7 +32,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 ## Linkit
 
 - [Kotlin-hiekkalaatikko](https://play.kotlinlang.org/)
-- [Kotlin dokumentaatio - perussyntaksi](https://kotlinlang.org/docs/reference/basic-syntax.html)
+- [Kotlin](https://kotlinlang.org/)
 
 (c) Teija Alasalmi 2020
 
