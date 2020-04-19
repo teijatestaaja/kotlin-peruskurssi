@@ -65,8 +65,8 @@ Seuraavissa tehtävissä harjoittelet hiekkalaatikossa näytölle tulostamista.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
-Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi painamalla oikean laidan play-painiketta. Mitä ohjelma tulostaa?\
+1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
+Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi painamalla oikean laidan play-painiketta. Mitä ohjelma tulostaa?
 Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelma tulostaa?
 2. Muokkaa tulostusta siten, että ohjelma tulostaa koko nimesi.
 3. Muokkaa tulostusta siten, että ohjelma tulostaa ensimmäiselle riville ”Hei” ja toiselle riville nimesi.

@@ -249,7 +249,7 @@ Kotlinissa + operaattorin sijaan merkkijonoja yhdistetään yleensä niin sanott
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
+1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
 Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-ohjelmointikielellä!
 2. Kirjoita ohjelma, joka tulostaa näytölle merkin X.
 3. Kirjoita ohjelma, joka luo merkkijonomuuttujan jonka arvo on Commodore, kokonaislukumuuttujan jonka arvo on 64 ja lopuksi tulostaa näytölle merkkijonon Commodore 64

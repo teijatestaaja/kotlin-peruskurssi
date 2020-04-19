@@ -169,7 +169,7 @@ fun main() {
    }
    ```
 
-4. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
+4. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
