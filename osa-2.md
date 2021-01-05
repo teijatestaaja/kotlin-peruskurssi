@@ -189,7 +189,7 @@ Lopuksi tulosta summa näytölle.
 
 2.2 Kirjoita ohjelma, joka laskee ja tulostaa neliön pinta-alan, kun neliön sivun pituus on 10.0.
 
-2.3 Kirjoita ohjelma, joka laskee ympyrän pinta-alan, kun ympyrän säde on 10.0.
+2.3 Kirjoita ohjelma, joka laskee ja tulostaa ympyrän pinta-alan, kun ympyrän säde on 10.0.
 
 2.4 Kirjoita ohjelma, joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
 
