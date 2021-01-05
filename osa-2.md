@@ -183,7 +183,7 @@ Tulos = 2.5
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-2.1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
+2.1 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Kirjoita ohjelma, joka laskee ja tulostaa kahden kokonaisluvun summan. Toisin sanoen, luo kaksi kokonaislukutyyppistä muuttujaa, ja laske niiden summa omaan muuttujaan. \
 Lopuksi tulosta summa näytölle.
 
