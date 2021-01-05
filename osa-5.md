@@ -138,7 +138,7 @@ fun main() {
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mitä seuraava funktio tekee?
+5.1 Mitä seuraava funktio tekee?
 
    ```kotlin
    fun omaLaskuri() {
@@ -150,7 +150,7 @@ fun main() {
    }
    ```
 
-2. Mitä seuraava funktio tekee?
+5.2 Mitä seuraava funktio tekee?
 
    ```kotlin
    fun laske(luku: Int, toinenLuku: Int) : Int {
@@ -163,7 +163,7 @@ fun main() {
    }
    ```
 
-3. Mitä seuraava funktio tekee?
+5.3 Mitä seuraava funktio tekee?
 
    ```kotlin
    fun muuta(nimi : String) : String {
@@ -171,8 +171,7 @@ fun main() {
    }
    ```
 
-4. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
-Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+5.4 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    fun toinenOmaFunktio(x: Int) : Int{
@@ -192,7 +191,7 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ja korjaa ohjelmaa siten, että ohjelma tulostaa luvun 10 kolme kertaa allekkain.
 
-5. Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+5.5 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    fun laske(a: Int, b: Int) {
@@ -208,12 +207,17 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    ```
 
    ja korjaa funktiota siten, että ohjelma tulostaa tekstin *Lukujen erotus on 6.
-6. Kirjoita funktio, joka ei saa mitään parametreja ja joka laskee ja tulostaa kaikki kolmella jaolliset luvut väliltä -30...30
-7. Kirjoita funktio, joka saa parametrinaan kaksi kokonaislukua ja joka tulostaa näiden erotuksen.
-8. Kirjoita funktio, joka tulostaa näytölle parametrinaan saamistaan kahdesta luvusta suurimman.
-9. Kirjoita funktio, joka tarkasta oliko parametrina saatu luku positiviinen. Jos oli, funktio palauttaa merkkijonon "positiivinen". Muutoin palauttaa merkkijonon "negatiivinen".
+
+5.6 Kirjoita funktio, joka ei saa mitään parametreja ja joka laskee ja tulostaa kaikki kolmella jaolliset luvut väliltä -30...30
+
+5.7 Kirjoita funktio, joka saa parametrinaan kaksi kokonaislukua ja joka tulostaa näiden erotuksen.
+
+5.8 Kirjoita funktio, joka tulostaa näytölle parametrinaan saamistaan kahdesta luvusta suurimman.
+
+5.9 Kirjoita funktio, joka tarkasta oliko parametrina saatu luku positiviinen. Jos oli, funktio palauttaa merkkijonon "positiivinen". Muutoin palauttaa merkkijonon "negatiivinen".
 
    **Guru-tehtävä**
-10. Kirjoita funktio, joka saa parametrinaan kokonaisluvun ja joka tulostaa kyseisen luvun käänteisluvun näytölle.
 
-Hienoa! Nyt olet suorittanut kurssin loppuun. Seuraavaksi voit suorittaa Kotlin jatkokurssin, joka on tulossa kesällä 2020 :)
+5.10 Kirjoita funktio, joka saa parametrinaan kokonaisluvun ja joka tulostaa kyseisen luvun käänteisluvun näytölle.
+
+Hienoa! Nyt olet suorittanut kurssin loppuun.

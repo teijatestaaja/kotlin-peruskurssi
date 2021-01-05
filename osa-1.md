@@ -67,12 +67,14 @@ Seuraavissa tehtävissä harjoittelet hiekkalaatikossa näytölle tulostamista.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
-Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi painamalla oikean laidan play-painiketta. Mitä ohjelma tulostaa?
+1.1 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi painamalla oikean laidan play-painiketta. Mitä ohjelma tulostaa?
 Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelma tulostaa?
-2. Muokkaa tulostusta siten, että ohjelma tulostaa koko nimesi.
-3. Muokkaa tulostusta siten, että ohjelma tulostaa ensimmäiselle riville ”Hei” ja toiselle riville nimesi.
-4. Alla olevassa ohjelmassa on virhe:
+
+1.2 Muokkaa tulostusta siten, että ohjelma tulostaa koko nimesi.
+
+1.3 Muokkaa tulostusta siten, että ohjelma tulostaa ensimmäiselle riville ”Hei” ja toiselle riville nimesi.
+
+1.4 Alla olevassa ohjelmassa on virhe:
 
    ```kotlin
    fun main() {
@@ -89,7 +91,7 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
 
    **Guru-tehtävä**
 
-5. Alla olevassa ohjelmassa on virhe:
+1.5 Alla olevassa ohjelmassa on virhe:
 
    ```kotlin
    fun main() {

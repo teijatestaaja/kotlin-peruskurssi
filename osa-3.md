@@ -253,7 +253,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mitä seuraava ohjelma tulostaa?
+3.1 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
    val luku = 5
@@ -267,7 +267,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
    }
    ```
 
-2. Mitä seuraava ohjelma tulostaa?
+3.2 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
    val valinta = 1
@@ -281,8 +281,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
    }
    ```
 
-3. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
-Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+3.3 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    fun main() {
@@ -295,7 +294,8 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    ```
 
    ja korjaa ehtolausetta siten, että ohjelma tulostaa muuttujan x arvon.
-4. Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+
+3.4 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    val arvottu = true;
@@ -307,14 +307,19 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    ```
 
    ja korjaa ohjelmaa siten, että ohjelma tulostaa tekstin *Arvotaan luku*.
-5. Kirjoita ohjelma, joka luo muuttujan ja asettaa sille alkuarvon väliltä 0-100. Tämän jälkeen ohjelma tarkastaa muuttujan arvon, ja jos arvo on pienempi kuin 0, tulostaa merkkijonon *negatiivinen*, muuten tulostaa merkkijonon *positiivinen*.
-6. Kirjoita ohjelma, joka toteuttaa tehtävän 1 toiminnallisuuden käyttäen when-lausetta.
-7. Kirjoita ohjelma, joka laskee ja tulostaa kahden luvun summan, jos molemmat luvut ovat suurempia kuin 0. Muuten ohjelma laskee ja tulostaa lukujen erotuksen.
-8. Kirjoita ohjelma, joka tulostaa merkkijonon *Peli päättyi!*, jos muuttujan luku arvo on yhtä suuri kuin 3.
-9. Kirjoita ohjelma, joka laskee ja tulostaa näytölle kahden luvun a ja b osamäärän, jos jaettava b on eri suuri kuin nolla.
+
+3.5 Kirjoita ohjelma, joka luo muuttujan ja asettaa sille alkuarvon väliltä 0-100. Tämän jälkeen ohjelma tarkastaa muuttujan arvon, ja jos arvo on pienempi kuin 0, tulostaa merkkijonon *negatiivinen*, muuten tulostaa merkkijonon *positiivinen*.
+
+3.6 Kirjoita ohjelma, joka toteuttaa tehtävän 1 toiminnallisuuden käyttäen when-lausetta.
+
+3.7 Kirjoita ohjelma, joka laskee ja tulostaa kahden luvun summan, jos molemmat luvut ovat suurempia kuin 0. Muuten ohjelma laskee ja tulostaa lukujen erotuksen.
+
+3.8 Kirjoita ohjelma, joka tulostaa merkkijonon *Peli päättyi!*, jos muuttujan luku arvo on yhtä suuri kuin 3.
+
+3.9 Kirjoita ohjelma, joka laskee ja tulostaa näytölle kahden luvun a ja b osamäärän, jos jaettava b on eri suuri kuin nolla.
 
    **Guru-tehtävä**
 
-10. Kirjoita ohjelma, joka tarkastaa onko luku jaollinen luvulla 2 sekä luvulla 4. Jos luku on jaollinen 2:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla*. Jos luku on jaollinen 4:lla, ohjelma tulostaa merkkijonon *jaollinen 4:lla*. Jos luku on jaollinen sekä kahdella että 4:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla ja 4:lla*.
+3.10 Kirjoita ohjelma, joka tarkastaa onko luku jaollinen luvulla 2 sekä luvulla 4. Jos luku on jaollinen 2:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla*. Jos luku on jaollinen 4:lla, ohjelma tulostaa merkkijonon *jaollinen 4:lla*. Jos luku on jaollinen sekä kahdella että 4:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla ja 4:lla*.
 
 Kun olet saanut osan 3 tehtävät tehtyä, voit siirtyä [osaan 4](osa-4.md).

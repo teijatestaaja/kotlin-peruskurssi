@@ -149,7 +149,7 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mitä seuraava ohjelma tulostaa?
+4.1 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
    var luku = 100
@@ -163,7 +163,7 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
    }
    ```
 
-2. Mitä seuraava ohjelma tulostaa?
+4.2 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
    var tulos = 10
@@ -176,7 +176,7 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
    } while (tulos > 0)
    ```
 
-3. Mitä seuraava ohjelma tulostaa?
+4.3 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
    for (x in 1 until 12) {
@@ -186,8 +186,7 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
     }
    ```
 
-4. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
-Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+4.4 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    for (luku in 1..10) {
@@ -196,7 +195,8 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    ```
 
    ja korjaa toistolausetta siten, että ohjelma tulostaa 10741
-5. Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+
+4.5 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    var muuttuja = 1
@@ -209,12 +209,17 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    ```
 
    ja korjaa toistolausetta siten, että ohjelma tulostaa kahdella jaollisten lukujen kohdalla "jaollinen kahdella".
-6. Kirjoita ohjelma, joka laskee ja tulostaa näytölle lukujen 1-10 summan.
-7. Kirjoita ohjelma, joka laskee ja tulostaa näytölle lukujen 1-10 keskiarvon.
-8. Kirjoita ohjelma, joka laskee ja tulostaa näytölle luvut 1-100 käänteisessä järjestyksessä.
-9. Kirjoita ohjelma, joka kirjoittaa 5 kertaa näytölle tekstin "Hei maailma!"
+
+4.6 Kirjoita ohjelma, joka laskee ja tulostaa näytölle lukujen 1-10 summan.
+
+4.7 Kirjoita ohjelma, joka laskee ja tulostaa näytölle lukujen 1-10 keskiarvon.
+
+4.8 Kirjoita ohjelma, joka laskee ja tulostaa näytölle luvut 1-100 käänteisessä järjestyksessä.
+
+4.9 Kirjoita ohjelma, joka kirjoittaa 5 kertaa näytölle tekstin "Hei maailma!"
 
    **Guru-tehtävä**
-10. Kirjoita ohjelma, joka tulostaa luvut 10 12 14 16 18 20
+
+4.10 Kirjoita ohjelma, joka tulostaa luvut 10 12 14 16 18 20
 
 Kun olet saanut osan 4 tehtävät tehtyä, voit siirtyä tämän kurssin viimeiseen [osaan 5](osa-5.md).

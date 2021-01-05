@@ -183,16 +183,19 @@ Tulos = 2.5
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
+2.1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Kirjoita ohjelma, joka laskee ja tulostaa kahden kokonaisluvun summan. Toisin sanoen, luo kaksi kokonaislukutyyppistä muuttujaa, ja laske niiden summa omaan muuttujaan. \
 Lopuksi tulosta summa näytölle.
-2. Kirjoita ohjelma, joka laskee ja tulostaa neliön pinta-alan, kun neliön sivun pituus on 10.0.
-3. Kirjoita ohjelma, joka laskee ympyrän pinta-alan, kun ympyrän säde on 10.0.
-4. Kirjoita ohjelma, joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
+
+2.2 Kirjoita ohjelma, joka laskee ja tulostaa neliön pinta-alan, kun neliön sivun pituus on 10.0.
+
+2.3 Kirjoita ohjelma, joka laskee ympyrän pinta-alan, kun ympyrän säde on 10.0.
+
+2.4 Kirjoita ohjelma, joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
 
    **Guru-tehtävä**
 
-5. Kirjoita ohjelma, joka laskee lukujen 1-5 keskiarvon ja tulostaa sen näytölle.
+2.5 Kirjoita ohjelma, joka laskee lukujen 1-5 keskiarvon ja tulostaa sen näytölle.
 
 ## Merkki- ja merkkijonomuuttujat
 
@@ -251,11 +254,14 @@ Kotlinissa + operaattorin sijaan merkkijonoja yhdistetään yleensä niin sanott
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
+2.6 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
 Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-ohjelmointikielellä!
-2. Kirjoita ohjelma, joka tulostaa näytölle merkin X.
-3. Kirjoita ohjelma, joka luo merkkijonomuuttujan jonka arvo on Commodore, kokonaislukumuuttujan jonka arvo on 64 ja lopuksi tulostaa näytölle merkkijonon Commodore 64
-4. Kirjoita ohjelma, joka tulostaa näytölle seuraavan tekstin kahdelle riville:
+
+2.7 Kirjoita ohjelma, joka tulostaa näytölle merkin X.
+
+2.8 Kirjoita ohjelma, joka luo merkkijonomuuttujan jonka arvo on Commodore, kokonaislukumuuttujan jonka arvo on 64 ja lopuksi tulostaa näytölle merkkijonon Commodore 64
+
+2.9 Kirjoita ohjelma, joka tulostaa näytölle seuraavan tekstin kahdelle riville:
 
    ```kotlin
    Hän sanoi: "Kotlin-ohjelmointi on hauskaa!"
@@ -264,7 +270,7 @@ Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-
 
    **Guru-tehtävä**
 
-5. Kirjoita ohjelma, joka tulostaa näytölle seuraavan tulostuksen käyttäen merkkijonoja:
+2.10 Kirjoita ohjelma, joka tulostaa näytölle seuraavan tulostuksen käyttäen merkkijonoja:
 
    ```kotlin
    10 + 5 = 15
@@ -293,7 +299,7 @@ Tässä kurssin osassa käsiteltiin Kotlin-ohjelmointikielen muuttujia. Tutustui
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1. Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
+2.11 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/)\
 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
@@ -304,7 +310,8 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    ```
 
    ja korjaa ohjelmaa siten, että ohjelma tulostaa ilman virheitä.
-2. Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+
+2.12 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    fun main() {
@@ -322,7 +329,7 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    4
    ```
 
-3. Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
+2.13 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    fun main() {
@@ -339,11 +346,11 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
    abc
    ```
 
-4. Kirjoita ohjelma, joka luo muuttujan, antaa sille arvon 100 ja tulostaa muuttujan. Tämän jälkeen ohjelma muuttaa saman muuttujan arvoksi 10 ja tulostaa muuttujan.
+2.14 Kirjoita ohjelma, joka luo muuttujan, antaa sille arvon 100 ja tulostaa muuttujan. Tämän jälkeen ohjelma muuttaa saman muuttujan arvoksi 10 ja tulostaa muuttujan.
 
    **Guru-tehtävä**
 
-5. Kirjoita ohjelma, joka laskee ja tulostaa seuraavien laskujen tulokset näytölle:
+2.15 Kirjoita ohjelma, joka laskee ja tulostaa seuraavien laskujen tulokset näytölle:
 
    ```text
    10 + 5 = 15
