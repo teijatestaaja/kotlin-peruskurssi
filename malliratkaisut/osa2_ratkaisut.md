@@ -48,7 +48,7 @@ Tehtävä 2.6
 
 ```kotlin
 fun main() {
-	print("Osaan ohjelmoida Kotlin-ohjelmointikielellä!")
+    print("Osaan ohjelmoida Kotlin-ohjelmointikielellä!")
 }
 ```
 
@@ -56,7 +56,7 @@ Tehtävä 2.7
 
 ```kotlin
 fun main() {
-	print("X")
+    print("X")
 }
 ```
 
@@ -64,7 +64,7 @@ Tehtävä 2.8
 
 ```kotlin
 fun main() {
-	val merkki = "Commodore"
+    val merkki = "Commodore"
     val nro = 64
     print(merkki + " " + nro)
 }
@@ -85,10 +85,10 @@ Tehtävä 2.10
 ```kotlin
 fun main() {
     println("10 + 5 = 15")
-	println("10 - 5 = 5")
-	println("10 * 5 = 50")
-	println("10 / 5 = 2")
-	println("10 % 5 = 0")
+    println("10 - 5 = 5")
+    println("10 * 5 = 50")
+    println("10 / 5 = 2")
+    println("10 % 5 = 0")
 }
 ```
 
