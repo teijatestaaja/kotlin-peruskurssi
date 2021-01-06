@@ -152,63 +152,71 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
 4.1 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
-   var luku = 100
-   while (luku > 10) {
-      if (luku > 50) {
-         luku = luku - 10
-         println(luku)
-      } else {
-         luku = -1
-      }
+   fun main() {
+      var luku = 100
+	   while (luku > 10) {
+   		if (luku > 50) {
+      		luku = luku - 10
+      		println(luku)
+   		} else {
+     		   luku = -1
+   		}
+	   }
    }
    ```
 
 4.2 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
-   var tulos = 10
-   do {
+   fun main() {
+      var tulos = 10
+	   do {
          print(tulos)
          if (tulos == 2 || tulos == 4) {
             print(tulos*2)
          }
          tulos--
-   } while (tulos > 0)
+	   } while (tulos > 0)
+   }
    ```
 
 4.3 Mitä seuraava ohjelma tulostaa?
 
    ```kotlin
-   for (x in 1 until 12) {
-        if (x % 3 == 0) {
-            print(x)
-        }
-    }
+   fun main() {
+      for (x in 1 until 12) {
+         if (x % 3 == 0) {
+            println(x)
+         }
+      }
+   }
    ```
 
 4.4 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
    for (luku in 1..10) {
-      print(luku)
+      println(luku)
    }
    ```
 
-   ja korjaa toistolausetta siten, että ohjelma tulostaa 10741
+   ja korjaa toistolausetta siten, että ohjelma tulostaa allekkain luvut 1 4 7 10
 
 4.5 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
-   var muuttuja = 1
-   while(muuttuja < 10) {
-      if (muuttuja > 0) {
-         println("jaollinen kahdella")
+   fun main() {
+      var muuttuja = 1
+      while(muuttuja < 10) {
+         if (muuttuja > 0) {
+            println("jaollinen kahdella")
+         }
+         muuttuja++
       }
-      muuttuja++
    }
    ```
 
-   ja korjaa toistolausetta siten, että ohjelma tulostaa kahdella jaollisten lukujen kohdalla "jaollinen kahdella".
+   ja korjaa toistolausetta siten, että ohjelma tulostaa muuttujan arvon sekä kahdella jaollisten lukujen kohdalla "on jaollinen kahdella", muuten "ei ole jaollinen kahdella".
 
 4.6 Kirjoita ohjelma, joka laskee ja tulostaa näytölle lukujen 1-10 summan.
 
