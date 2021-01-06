@@ -326,6 +326,6 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
 
    **Guru-tehtävä**
 
-3.10 Kirjoita ohjelma, joka tarkastaa onko luku jaollinen luvulla 2 sekä luvulla 4. Jos luku on jaollinen 2:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla*. Jos luku on jaollinen 4:lla, ohjelma tulostaa merkkijonon *jaollinen 4:lla*. Jos luku on jaollinen sekä kahdella että 4:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla ja 4:lla*.
+3.10 Kirjoita ohjelma, joka tarkastaa onko luku jaollinen luvulla 2 sekä luvulla 4. Jos luku on jaollinen sekä kahdella että 4:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla ja 4:lla*.
 
 Kun olet saanut osan 3 tehtävät tehtyä, voit siirtyä [osaan 4](osa-4.md).
