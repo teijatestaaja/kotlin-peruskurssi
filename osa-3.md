@@ -255,55 +255,61 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
 
 3.1 Mitä seuraava ohjelma tulostaa?
 
-   ```kotlin
-   val luku = 5
-  
-   if (luku < 5) {
-     print("liian pieni")
-   } else if (luku >= 5 && luku <=10) {
-     print("sopiva")
-   } else {
-     print("liian suuri")
-   }
-   ```
+  ```kotlin
+  fun main() {
+      val luku = 5
+
+      if (luku < 5) {
+        print("liian pieni")
+      } else if (luku >= 5 && luku <=10) {
+        print("sopiva")
+      } else {
+        print("liian suuri")
+      }
+  }
+  ```
 
 3.2 Mitä seuraava ohjelma tulostaa?
 
-   ```kotlin
-   val valinta = 1
-   val resepti = "jälkiruoka"
-   if (valinta == 1) {
-     if (resepti.equals("pääruoka") ) {
-       print("lasagne")
-     } else {
-       print("tiramisu")
-     }
-   }
-   ```
+  ```kotlin
+  fun main() {
+      val valinta = 1
+      val resepti = "jälkiruoka"
+      if (valinta == 1) {
+        if (resepti.equals("pääruoka") ) {
+          print("lasagne")
+        } else {
+          print("tiramisu")
+        }
+      }
+  }
+  ```
 
 3.3 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
-   ```kotlin
-   fun main() {
-     val x = 1
+  ```kotlin
+  fun main() {
+      val x = 1
 
-     if (x < 0) {
-       print(x)
-     }
-   }
-   ```
+      if (x < 0) {
+        print(x)
+      }
+  }
+  ```
 
    ja korjaa ehtolausetta siten, että ohjelma tulostaa muuttujan x arvon.
 
 3.4 Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
-   val arvottu = true;
-   if (!arvottu) {
+  fun main() {
+      val arvottu = true;
+      if (!arvottu) {
         print("Arvotaan luku")
-   } else {
-      print("Arvonta päättyi!")
-   }
+      } else {
+        print("Arvonta päättyi!")
+      }
+  }
    ```
 
    ja korjaa ohjelmaa siten, että ohjelma tulostaa tekstin *Arvotaan luku*.
