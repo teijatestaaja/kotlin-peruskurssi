@@ -318,7 +318,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
 
 3.6 Kirjoita ohjelma, joka toteuttaa tehtävän 3.1 toiminnallisuuden käyttäen when-lausetta.
 
-3.7 Kirjoita ohjelma, joka laskee ja tulostaa kahden positiivisen luvun summan, jos molemmat luvut ovat suurempia kuin 10. Muuten ohjelma laskee ja tulostaa lukujen erotuksen.
+3.7 Kirjoita ohjelma, joka laskee ja tulostaa kahden positiivisen luvun summan, jos molemmat luvut ovat suurempia kuin 10. Muuten ohjelma laskee ja tulostaa lukujen tulon.
 
 3.8 Kirjoita ohjelma, joka tulostaa merkkijonon *Peli päättyi!*, jos muuttujan luku arvo on yhtä suuri kuin 3.
 
