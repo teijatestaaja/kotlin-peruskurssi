@@ -259,7 +259,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
   fun main() {
       val luku = 5
 
-      if (luku < 5) {
+      if (1 <= luku && luku < 5) {
         print("liian pieni")
       } else if (luku >= 5 && luku <=10) {
         print("sopiva")
@@ -316,7 +316,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
 
 3.5 Kirjoita ohjelma, joka luo muuttujan ja asettaa sille alkuarvon väliltä 0-100. Tämän jälkeen ohjelma tarkastaa muuttujan arvon, ja jos arvo on pienempi kuin 0, tulostaa merkkijonon *negatiivinen*, muuten tulostaa merkkijonon *positiivinen*.
 
-3.6 Kirjoita ohjelma, joka toteuttaa tehtävän 1 toiminnallisuuden käyttäen when-lausetta.
+3.6 Kirjoita ohjelma, joka toteuttaa tehtävän 3.1 toiminnallisuuden käyttäen when-lausetta.
 
 3.7 Kirjoita ohjelma, joka laskee ja tulostaa kahden luvun summan, jos molemmat luvut ovat suurempia kuin 0. Muuten ohjelma laskee ja tulostaa lukujen erotuksen.
 
