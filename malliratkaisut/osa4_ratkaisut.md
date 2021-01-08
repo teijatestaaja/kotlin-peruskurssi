@@ -26,7 +26,7 @@ Tehtävä 4.4
 fun main() {
     for (luku in 1..10 step 3) {
    		println(luku)
-	}
+    }
 }
 ```
 
@@ -54,7 +54,7 @@ fun main() {
     var summa = 0
     for (i in 1..10) {
     	summa += i
-	}
+    }
     println("Summa: " + summa)
 }
 ```
@@ -77,7 +77,7 @@ Tehtävä 4.8
 fun main() {
     for (i in 100 downTo 1) {
     	println(i)
-	}
+    }
 }
 ```
 
