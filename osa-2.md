@@ -237,18 +237,42 @@ Kotlin-ohjelmointi on hauskaa!
 Merkkijonomuuttujaan voi yhdistää myös muun tyyppisiä muuttujia. Seuraavat komennot:
 
 ```kotlin
-var merkkijono: String = "Kotlin-ohjelmointia vuonna "
-var vuosi: Int = 2020
+var merkkijono: String = " vuonna Kotlin-ohjelmointia"
+var vuosi: Int = 2021
 print(merkkijono + vuosi)
 ```
 
 Tulostavat näytölle tekstin
 
 ```text
-Kotlin-ohjelmointia vuonna 2020
+Kotlin-ohjelmointia vuonna 2021
 ```
 
-Kotlinissa + operaattorin sijaan merkkijonoja yhdistetään yleensä niin sanottuja merkkijonomalleja (String templates) käyttäen. Merkkijonomalleja käsitellään myöhemmin tällä kurssilla.
+Kokonais- tai liukulukumuuttujan yhdistäminen ei sen sijaan onnistu suoraan, sillä seuraava tuottaa virheilmoituksen:
+
+```kotlin
+var merkkijono: String = "Kotlin-ohjelmointia vuonna "
+var vuosi: Int = 2021
+print(vuosi + merkkijono)
+```
+
+Luvun ja merkkijonon yhdistämisen saa toimimaan, kun muuntaa luvun merkkijonoksi niin sanottua toString() -funktiota käyttäen:
+
+```kotlin
+fun main() {
+   var merkkijono: String = " vuonna Kotlin-ohjelmointia"
+	var vuosi: Int = 2021
+	print(vuosi.toString() + merkkijono)
+}
+```
+
+Nyt näytölle tulostuu:
+
+```text
+2021 vuonna Kotlin-ohjelmointia
+```
+
+Funktioita käsitellään tarkemmin kurssin osiossa 5. Kotlinissa + operaattorin sijaan merkkijonoja yhdistetään yleensä niin sanottuja merkkijonomalleja (String templates) käyttäen. Merkkijonomalleja käsitellään myöhemmin tällä kurssilla.
 
 ## Tehtävät merkki- ja merkkijonomuuttujista
 
