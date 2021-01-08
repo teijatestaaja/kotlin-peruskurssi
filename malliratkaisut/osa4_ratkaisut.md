@@ -66,7 +66,7 @@ fun main() {
     var summa = 0
     for (i in 1..10) {
     	summa += i
-	}
+    }
     println("Keskiarvo: " + summa*1.0/10)
 }
 ```
@@ -87,7 +87,7 @@ Tehtävä 4.9
 fun main() {
     for (i in 1..5) {
     	println("Hei maailma!")
-	}
+    }
 }
 ```
 
@@ -97,6 +97,6 @@ Tehtävä 4.10
 fun main() {
     for (i in 10..20 step 2) {
     	print(i.toString() + " ")
-	}
+    }
 }
 ```
