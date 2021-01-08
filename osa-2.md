@@ -248,7 +248,7 @@ Tulostavat näytölle tekstin
 Kotlin-ohjelmointia vuonna 2021
 ```
 
-Kokonais- tai liukulukumuuttujan yhdistäminen ei sen sijaan onnistu suoraan, sillä seuraava tuottaa virheilmoituksen:
+Kokonais- tai liukulukumuuttujan yhdistäminen merkkijonoon ei sen sijaan onnistu suoraan, sillä seuraava tuottaa virheilmoituksen:
 
 ```kotlin
 var merkkijono: String = "Kotlin-ohjelmointia vuonna "
@@ -256,7 +256,7 @@ var vuosi: Int = 2021
 print(vuosi + merkkijono)
 ```
 
-Luvun ja merkkijonon yhdistämisen saa toimimaan, kun muuntaa luvun merkkijonoksi niin sanottua toString() -funktiota käyttäen:
+Luvun ja merkkijonon yhdistämisen merkkijonoon saa toimimaan, kun muuntaa luvun merkkijonoksi niin sanottua toString() -funktiota käyttäen:
 
 ```kotlin
 fun main() {
