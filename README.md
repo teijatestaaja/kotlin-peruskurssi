@@ -2,17 +2,17 @@
 
 Kotlin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin.
 
-## Mikä Kotlin
+## Mikä ihmeen Kotlin
 
 Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmointikieli, joka kehitettiin alun perin vuonna 2011. Kotlin-ohjelmointikielen takana on tsekkiläinen yritys JetBrains. Kotlinin kehittäjät suunnittelivat Kotlinista vaihtoehtoa Javalle, ja Kotlin onkin noussut suosituimmaksi ohjelmointikieleksi Android-kehityksessä Javan sijaan. Kielen suosiosta kertoo sekin, että vuonna 2019 Google nosti Kotlinin Android-käyttöjärjestelmän ensisijaiseksi ohjelmointikieleksi.
 
 ## Esitiedot
 
-Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suunniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
+Kurssi ei vaadi mitään esitietoja ohjelmoinnista, sillä kurssi alkaa aivan alkeista paitsi Kotlinin myös ohjelmointiin liittyvien käsitteiden osalta. Edistyneemmillä oppijoilla erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suunniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
 
 ## Sisältö
 
-Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-2 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
+Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-2 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
