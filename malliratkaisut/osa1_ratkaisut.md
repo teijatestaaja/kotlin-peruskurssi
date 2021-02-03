@@ -11,14 +11,14 @@ Puolipisteen lisääminen ei muuta tulostusta, eikä puolipistettä tarvita kotl
 Tehtävä 1.2
 ```kotlin
 fun main() {
-    println("Teija Testaaja");
+    println("Teija Testaaja")
 }
 ```
 
 Tehtävä 1.3
 ```kotlin
 fun main() {
-    println("Hei\nTeija Testaaja");
+    println("Hei\nTeija Testaaja")
 }
 ```
 
