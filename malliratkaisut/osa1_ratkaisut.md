@@ -1,4 +1,6 @@
-# Tulostaminen - malliratkaisut
+[Etusivu](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md)
+
+# Osa 1 Tulostaminen - malliratkaisut
 
 Tehtävä 1.1
 
