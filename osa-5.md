@@ -8,7 +8,7 @@
 - Osaat luoda funktioita pala palalta.
 - Osaat luoda parametrillisia ja parametrittomia funktioita.
 - Osaat luoda funktioita, jotka palauttavat arvon.
-- Osaat kutsua funktioita pääohjelmasta että muiden funktioiden sisältä.
+- Osaat kutsua funktioita sekä pääohjelmasta että muiden funktioiden sisältä.
 
 Tietokoneohjelmien ja erilaisten mobiili- ja www-sovellusten kaikki toiminnallinen koodi kirjoitetaan funktioihin. Jokaisen ohjelman lähdekoodista löytyy aina vähintäänkin main-funktio, jonka avulla ohjelma käynnistetään. Tätä kutsutaan yleensä pääohjelmaksi. Tämän kurssin ensimmäisessä osassa opimme, että Kotlinilla tehdyt ohjelmat vaativat toimiakseen ohjelmarungon, joka näyttää seuraavalta:
 
