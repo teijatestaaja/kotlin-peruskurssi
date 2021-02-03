@@ -174,7 +174,7 @@ fun main() {
 5.4 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
    ```kotlin
-   fun toinenOmaFunktio(x: Int) : Int{
+   fun toinenOmaFunktio(x: Int) : Int {
       return x * 2
    }
 
@@ -202,22 +202,22 @@ fun main() {
       val a = 10
       val b = 4
       val erotus = laske(a, b)
-      print("Lukujen " + a + " ja b " + b + " erotus on " + erotus)
+      print("Lukujen " + a + " ja " + b + " erotus on " + erotus + ".")
    }
    ```
 
-   ja korjaa funktiota siten, että ohjelma tulostaa tekstin *Lukujen erotus on 6.
+   ja korjaa funktiota siten, että ohjelma tulostaa tekstin *Lukujen 10 ja 4 erotus on 6.*
 
 5.6 Kirjoita funktio, joka ei saa mitään parametreja ja joka laskee ja tulostaa kaikki kolmella jaolliset luvut väliltä -30...30
 
-5.7 Kirjoita funktio, joka saa parametrinaan kaksi kokonaislukua ja joka tulostaa näiden erotuksen.
+5.7 Kirjoita funktio, joka saa parametrinaan kaksi kokonaislukua ja joka tulostaa näiden osamäärän tai 0, jos jakaja on nolla.
 
-5.8 Kirjoita funktio, joka tulostaa näytölle parametrinaan saamistaan kahdesta luvusta suurimman.
+5.8 Kirjoita funktio, joka palauttaa parametrinaan saamistaan kahdesta kokonaisluvusta suurimman.
 
-5.9 Kirjoita funktio, joka tarkasta oliko parametrina saatu luku positiviinen. Jos oli, funktio palauttaa merkkijonon "positiivinen". Muutoin palauttaa merkkijonon "negatiivinen".
+5.9 Kirjoita funktio, joka tarkasta oliko parametrina saatu luku positiviinen. Jos oli, funktio palauttaa merkkijonon "positiivinen". Jos luku oli 0, funktio palauttaa merkkijonon "nolla". Muutoin palauttaa merkkijonon "negatiivinen".
 
    **Guru-tehtävä**
 
-5.10 Kirjoita funktio, joka saa parametrinaan kokonaisluvun ja joka tulostaa kyseisen luvun käänteisluvun näytölle.
+5.10 Kirjoita funktio, joka saa parametrinaan kolme kokonaislukua satunnaisessa järjestyksessä ja joka tulostaa luvuista pienimmän.
 
 Hienoa! Nyt olet suorittanut kurssin loppuun.
