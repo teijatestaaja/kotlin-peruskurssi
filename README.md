@@ -26,7 +26,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 | [Osa 2](osa-2.md) | Muuttujat               | 15       | [Osa 2 ratkaisut](malliratkaisut/osa2_ratkaisut.md) |
 | [Osa 3](osa-3.md) | Ehto- ja valintalauseet | 10       | [Osa 3 ratkaisut](malliratkaisut/osa3_ratkaisut.md) |
 | [Osa 4](osa-4.md) | Toistolauseet           | 10       | [Osa 4 ratkaisut](malliratkaisut/osa4_ratkaisut.md) |
-| [Osa 5](osa-5.md) | Funktiot                | 10       | |
+| [Osa 5](osa-5.md) | Funktiot                | 10       | [Osa 5 ratkaisut](malliratkaisut/osa5_ratkaisut.md) |
 |                   | Yhteensä                | 50       | |
 
 ## Linkit
