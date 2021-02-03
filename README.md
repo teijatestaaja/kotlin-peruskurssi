@@ -29,7 +29,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 | [Osa 5](osa-5.md) | Funktiot                | 10       | [Osa 5 ratkaisut](malliratkaisut/osa5_ratkaisut.md) |
 |                   | Yhteensä                | 50       | |
 
-## Linkit
+## Hyödylliset linkit
 
 - [Kotlin-hiekkalaatikko](https://play.kotlinlang.org/)
 - [Kotlin](https://kotlinlang.org/)
