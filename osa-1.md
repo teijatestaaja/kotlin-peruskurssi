@@ -17,7 +17,7 @@ Tietokoneohjelmat, puhelimen sovellukset tai selaimen kautta toimivat sovellukse
 print("Hei!")
 ```
 
-Kotlinilla tehdyt ohjelmat vaativat toimiakseen ohjelmarungon, joka näyttää seuraavalta:
+Kotlinilla tehdyt ohjelmat vaativat toimiakseen ohjelmarungon eli ns. pääohjelman, joka näyttää seuraavalta:
 
 ```kotlin
 fun main() {
@@ -61,7 +61,13 @@ Yllä oleva ohjelmakoodi on itseasiassa valmis ohjelma. Ohjelmakoodin lisäksi t
 
 ![Kotlin-hiekkalaatikko](kuvat/kotlin_playground.PNG "Kotlin-hiekkalaatikko")
 
-Seuraavissa tehtävissä harjoittelet hiekkalaatikossa näytölle tulostamista.
+Seuraavissa tehtävissä harjoittelet Kotlin-hiekkalaatikossa näytölle tulostamista. Kokeile rohkeasti, virhetilanteen sattuessa saat palattua lähtötilanteeseen, kun poistat kaiken tekstin hiekkalaatikosta ja lisäät tilalle tyhjän pääohjelmarungon
+
+```kotlin
+fun main() {
+    
+}
+```
 
 ## Tehtävät
 
