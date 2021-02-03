@@ -12,7 +12,7 @@ Kurssi ei vaadi mitään esitietoja ohjelmoinnista, mutta erityisesti Java-kiele
 
 ## Sisältö
 
-Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
+Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa osasta 1. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-2 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
