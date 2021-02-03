@@ -272,8 +272,6 @@ Nyt näytölle tulostuu:
 2021 vuonna Kotlin-ohjelmointia
 ```
 
-Funktioita käsitellään tarkemmin kurssin osiossa 5. Kotlinissa + operaattorin sijaan merkkijonoja yhdistetään yleensä niin sanottuja merkkijonomalleja (String templates) käyttäen. Merkkijonomalleja käsitellään myöhemmin tällä kurssilla.
-
 ## Tehtävät merkki- ja merkkijonomuuttujista
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
@@ -313,7 +311,25 @@ val ehto = true;
 val uusiehto = false;
 ```
 
-Palataan totuusarvomuuttujiin vielä myöhemmin tällä kurssilla.
+Myös totuusarvomuuttujan voi esitellä sekä var että val-avainsanalla. Vain var-avainsanalla esitellyn muuttujan totuusarvo on muutettavissa:
+
+```kotlin
+   val ainaTosi = true
+   println(ainaTosi)
+    
+   var muuttuvaArvo = true
+   println(muuttuvaArvo)
+   muuttuvaArvo = false
+   println(muuttuvaArvo)
+```
+
+Edellä oleva tulostaa:
+
+```kotlin
+   true
+   true
+   false
+```
 
 ## Yhteenveto
 
