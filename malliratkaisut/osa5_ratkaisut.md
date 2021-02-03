@@ -120,14 +120,14 @@ fun tulostaPienin(a: Int, b: Int, c: Int) {
     if (c < b && c < a) {
         pienin = c
     }
-    
+
     println(pienin)
 }
 
 fun main() {
     tulostaPienin(0, 2, 9)
     tulostaPienin(0, 9, 2)
-	tulostaPienin(2, 0, 9)
+    tulostaPienin(2, 0, 9)
     tulostaPienin(2, 9, 0)
     tulostaPienin(9, 0, 2)
     tulostaPienin(9, 2, 0)
