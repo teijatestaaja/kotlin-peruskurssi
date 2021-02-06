@@ -193,7 +193,7 @@ Lopuksi tulosta summa näytölle.
 
 2.4 Kirjoita ohjelma, joka laskee lukujen 1-5 summan ja tulostaa sen näytölle.
 
-   **Guru-tehtävä**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 2.5 Kirjoita ohjelma, joka laskee lukujen 1-5 keskiarvon ja tulostaa sen näytölle.
 
@@ -290,7 +290,7 @@ Kirjoita ohjelma, joka tulostaa näytölle merkkijonon: Osaan ohjelmoida Kotlin-
    ja lähti koodaamaan.
    ```
 
-   **Guru-tehtävä**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 2.10 Kirjoita ohjelma, joka tulostaa näytölle seuraavan tulostuksen käyttäen merkkijonoja:
 
