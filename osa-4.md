@@ -228,7 +228,7 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
 
 4.9 Kirjoita ohjelma, joka kirjoittaa 5 kertaa näytölle tekstin "Hei maailma!"
 
-   **Guru-tehtävä**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 4.10 Kirjoita ohjelma, joka tulostaa luvut 10 12 14 16 18 20
 
