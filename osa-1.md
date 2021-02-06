@@ -63,7 +63,11 @@ Yllä oleva ohjelmakoodi on itseasiassa valmis ohjelma. Ohjelmakoodin lisäksi t
 
 ![Kotlin-hiekkalaatikko](kuvat/kotlin_playground.PNG "Kotlin-hiekkalaatikko")
 
-Seuraavissa tehtävissä harjoittelet Kotlin-hiekkalaatikossa näytölle tulostamista. Kokeile rohkeasti, virhetilanteen sattuessa saat palattua lähtötilanteeseen, kun poistat kaiken tekstin hiekkalaatikosta ja lisäät tilalle tyhjän pääohjelmarungon
+Ensimmäistä kertaa sivulle tultaessa hiekkalaatikko sisältää valmiin pääohjelman, ja sen sisältämää koodia voi muokata suoraan selainikkunassa. Pääohjelman voi suorittaa painamalla oikeassa laidassa näkyvää sinistä play-painiketta.
+
+## Yhteenveto
+
+Tässä kurssin ensimmäisessä osassa käsiteltiin näytölle tulostamista Kotlinin standardikirjaston *print()* ja *println()* -funktioiden avulla. Lisäksi tutustuttiin pääohjelman käsitteeseen sekä Kotlin-hiekkalaatikkoon. Seuraavissa tehtävissä harjoittelet itse Kotlin-hiekkalaatikossa näytölle tulostamista. Kokeile rohkeasti, virhetilanteen sattuessa saat palattua lähtötilanteeseen, kun poistat kaiken tekstin hiekkalaatikosta ja lisäät tilalle tyhjän pääohjelmarungon
 
 ```kotlin
 fun main() {
@@ -75,7 +79,7 @@ fun main() {
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
 
-1.1 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi painamalla oikean laidan play-painiketta. Mitä ohjelma tulostaa?
+1.1 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Käynnistä eli aja hiekkalaatikossa näkyvä valmis koodi. Mitä ohjelma tulostaa?
 Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelma tulostaa?
 
 1.2 Muokkaa tulostusta siten, että ohjelma tulostaa koko nimesi.
@@ -97,7 +101,7 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    Kotlinilla!
    ```
 
-   **Guru-tehtävä**
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 1.5 Alla olevassa ohjelmassa on virhe:
 
