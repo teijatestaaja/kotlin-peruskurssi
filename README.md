@@ -2,9 +2,9 @@
 
 Kotlin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin.
 
-## Mikä ihmeen Kotlin
+## Mikä on Kotlin
 
-Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmointikieli, joka kehitettiin alun perin vuonna 2011. Kotlin-ohjelmointikielen takana on tsekkiläinen yritys JetBrains. Kotlinin kehittäjät suunnittelivat Kotlinista vaihtoehtoa Javalle, ja Kotlin onkin noussut suosituimmaksi ohjelmointikieleksi Android-kehityksessä Javan sijaan. Kielen suosiosta kertoo sekin, että vuonna 2019 Google nosti Kotlinin Android-käyttöjärjestelmän ensisijaiseksi ohjelmointikieleksi.
+Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmointikieli, joka julkaistiin alun perin vuonna 2011. Kotlin-ohjelmointikielen takana on tsekkiläinen yritys JetBrains. Kotlinin kehittäjät suunnittelivat Kotlinista vaihtoehtoa Javalle, ja Kotlin onkin noussut suosituimmaksi ohjelmointikieleksi Android-kehityksessä Javan sijaan. Kielen suosiosta kertoo sekin, että vuonna 2019 Google nosti Kotlinin Android-käyttöjärjestelmän ensisijaiseksi ohjelmointikieleksi.
 
 ## Esitiedot
 
