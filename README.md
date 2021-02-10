@@ -10,11 +10,11 @@ Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmo
 
 ## Esitiedot
 
-Kurssi ei vaadi mitään esitietoja ohjelmoinnista, sillä kurssi alkaa aivan alkeista paitsi Kotlinin myös ohjelmointiin liittyvien käsitteiden osalta. Edistyneemmillä oppijoilla erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suunniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
+Kurssi ei vaadi mitään esitietoja ohjelmoinnista, sillä kurssi alkaa aivan alkeista sekä Kotlinin että ohjelmointiin liittyvien käsitteiden osalta. Edistyneemmillä oppijoilla erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suunniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
 
 ## Sisältö
 
-Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-2 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin tehtävissä
+Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin perustehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
