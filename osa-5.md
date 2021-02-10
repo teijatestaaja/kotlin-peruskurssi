@@ -134,6 +134,10 @@ fun main() {
 }
 ```
 
+## Yhteenveto
+
+Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funktion parametri ja funktion paluuarvo. Lisäksi tutustuimme funktion osiin sekä parametrittomiin ja parametrillisiin funktioihin. Lopuksi opettelimme kutsumaan erilaisia funktioita. Seuraavissa tehtävissä harjoittelet funktion toiminnan selvittämistä, funktiossa olevien virheiden korjaamista sekä funktion kirjoittamista aivan alusta alkaen.
+
 ## Tehtävät
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perustehtävät**
