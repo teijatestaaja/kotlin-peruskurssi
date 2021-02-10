@@ -143,7 +143,7 @@ Funktioihin palataan kurssin seuraavassa osassa.
 
 ## Yhteenveto
 
-Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään silloin, kun ohjelmaan halutaan tositettavaa toiminnallisuutta. Tutustuimme *while*, *do..while* sekä *for*-toistolauseisiin.
+Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään silloin, kun ohjelmaan halutaan tositettavaa toiminnallisuutta. Tutustuimme *while*, *do..while* sekä *for*-toistolauseisiin. Seuraavissa tehtävissä harjoittelet erilaisten toistolauseiden analysointia, korjaamista sekä muodostamista.
 
 ## Tehtävät
 

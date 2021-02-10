@@ -247,7 +247,7 @@ when (ika) {
 
 ## Yhteenveto
 
-Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointikielessä. Tutustuimme jos-ehtolauseeseen, muuten-lauseeseen, loogisiin operaatioihin sekä vertailuoperaattoreihin. Lisäksi tutustuimme kun-valintalauseeseen Seuraavissa tehtävissä harjoittelet ehto- ja valintalauseiden analysointia, korjaamista sekä muodostamista.
+Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointikielessä. Tutustuimme jos-ehtolauseeseen, muuten-lauseeseen, loogisiin operaatioihin sekä vertailuoperaattoreihin. Lisäksi tutustuimme kun-valintalauseeseen. Seuraavissa tehtävissä harjoittelet ehto- ja valintalauseiden analysointia, korjaamista sekä muodostamista.
 
 ## Tehtävät
 
