@@ -4,7 +4,7 @@
 
 ## Oppimistavoitteet
 
-- Tunnet käsitteet funktio, funktion parametri, funktion paluuarvo ja funktion oletuspaluuarvo.
+- Tunnet käsitteet funktio, funktion parametri, funktion paluuarvo ja funktion oletusarvo.
 - Osaat luoda funktioita pala palalta.
 - Osaat luoda parametrillisia ja parametrittomia funktioita.
 - Osaat luoda funktioita, jotka palauttavat arvon.
@@ -143,9 +143,9 @@ fun main() {
 }
 ```
 
-## Funktion oletuspaluuarvo
+## Funktion oletusarvo
 
-Kotlinissa funktion parametreillä voi olla oletusarvoja, joita käytetään silloin, kun funktiota kutsutaan ilman annettua parametria. Funktion oletuspaluuarvo määritellään funktion parametrin tyypin jälkeen yhtäsuuruus-merkin avulla:
+Kotlinissa funktion parametreillä voi olla oletusarvoja, joita käytetään silloin, kun funktiota kutsutaan ilman annettua parametria. Funktion oletusarvo määritellään funktion parametrin tyypin jälkeen yhtäsuuruus-merkin avulla:
 
 ```kotlin
 fun tulosta(tervehdys: String = "Hei!") = println(tervehdys)
@@ -169,7 +169,7 @@ Hola!
 
 ## Yhteenveto
 
-Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funktion parametri, funktion paluuarvo ja funktion oletuspaluuarvo. Lisäksi tutustuimme funktion osiin sekä parametrittomiin ja parametrillisiin funktioihin. Opettelimme myös kutsumaan erilaisia funktioita. Seuraavissa tehtävissä harjoittelet funktion toiminnan selvittämistä, funktiossa olevien virheiden korjaamista sekä funktion kirjoittamista aivan alusta alkaen.
+Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funktion parametri, funktion paluuarvo ja funktion oletusarvo. Lisäksi tutustuimme funktion osiin sekä parametrittomiin ja parametrillisiin funktioihin. Opettelimme myös kutsumaan erilaisia funktioita. Seuraavissa tehtävissä harjoittelet funktion toiminnan selvittämistä, funktiossa olevien virheiden korjaamista sekä funktion kirjoittamista aivan alusta alkaen.
 
 ## Tehtävät
 
