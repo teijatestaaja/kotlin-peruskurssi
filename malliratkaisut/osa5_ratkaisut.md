@@ -12,7 +12,7 @@ Jos funktiolle parametrina annetut luvut ovat erisuuret, funktio laskee ja palau
 
 Tehtävä 5.3
 
-Funktio muuttaa parametrissa annetun nimen alkukirjaimen isoksi kirjaimeksi.
+Funktio muuttaa parametrissa annetun nimen alkukirjaimen isoksi kirjaimeksi. Jos nimeä ei ole annettu, käytetään oletuspaluuarvoa "Tuntematon".
 
 Tehtävä 5.4
 

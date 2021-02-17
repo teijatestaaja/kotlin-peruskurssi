@@ -4,13 +4,13 @@
 
 ## Oppimistavoitteet
 
-- Tunnet käsitteet funktio, funktion parametri ja funktion paluuarvo.
+- Tunnet käsitteet funktio, funktion parametri, funktion paluuarvo ja funktion oletuspaluuarvo.
 - Osaat luoda funktioita pala palalta.
 - Osaat luoda parametrillisia ja parametrittomia funktioita.
 - Osaat luoda funktioita, jotka palauttavat arvon.
 - Osaat kutsua funktioita sekä pääohjelmasta että muiden funktioiden sisältä.
 
-Tietokoneohjelmien ja erilaisten mobiili- ja www-sovellusten kaikki toiminnallinen koodi kirjoitetaan funktioihin. Jokaisen ohjelman lähdekoodista löytyy aina vähintäänkin main-funktio, jonka avulla ohjelma käynnistetään. Tätä kutsutaan yleensä pääohjelmaksi. Tämän kurssin ensimmäisessä osassa opimme, että Kotlinilla tehdyt ohjelmat vaativat toimiakseen ohjelmarungon, joka näyttää seuraavalta:
+Tietokoneohjelmien ja erilaisten sovellusten kaikki toiminnallinen koodi kirjoitetaan funktioihin. Jokaisen ohjelman lähdekoodista löytyy aina vähintäänkin main-funktio, jonka avulla ohjelma käynnistetään. Tätä kutsutaan yleensä pääohjelmaksi. Tämän kurssin ensimmäisessä osassa opimme, että Kotlinilla tehdyt ohjelmat vaativat toimiakseen ohjelmarungon, joka näyttää seuraavalta:
 
 ```kotlin
 fun main() {
@@ -69,7 +69,7 @@ fun lisaaYksi(luku: Int): Int {
 }
 ```
 
-Lopuksi funktiolle lisätään koodi, joka funktion tulee suorittaa. Funktion lähdekoodi kirjoitetaan aaltosulkeiden sisälle. Lähdekoodi voi sisältää esimerkiksi muuttujia, ehto- tai valintalauseita, toistolauseita tai kutsuja muihin funktioihin. Seuraavassa esimerkissä lisaaYksi-funktiolle on kirjoitettu lähdekoodi, jossa parametrissa annetusta luvusta luodaan uusi luku lisäämällä lukuun yksi. Lopuksi uusi luku palautetaan funktion paluuarvona *return*-avainsanan avulla:
+Lopuksi funktiolle lisätään koodi, joka funktion tulee suorittaa. Funktion lähdekoodi kirjoitetaan aaltosulkeiden eli lohkon sisälle. Lähdekoodi voi sisältää esimerkiksi muuttujia, ehto- tai valintalauseita, toistolauseita tai kutsuja muihin funktioihin. Seuraavassa esimerkissä lisaaYksi-funktiolle on kirjoitettu lähdekoodi, jossa parametrissa annetusta luvusta luodaan uusi luku lisäämällä lukuun yksi. Lopuksi uusi luku palautetaan funktion paluuarvona *return*-avainsanan avulla:
 
 ```kotlin
 fun lisaaYksi(luku: Int): Int {
@@ -78,7 +78,7 @@ fun lisaaYksi(luku: Int): Int {
 }
 ```
 
-Nyt funktio palauttaa parametrina annetun luvun lisättynä yhdellä. Sama lähdekoodi voitaisiin kirjoittaa vielä yksinkertaisemmin:
+Nyt funktio palauttaa parametrina annetun luvun lisättynä yhdellä. Sama funktio voitaisiin kirjoittaa vielä yksinkertaisemmin:
 
 ```kotlin
 fun lisaaYksi(luku: Int): Int {
@@ -86,15 +86,24 @@ fun lisaaYksi(luku: Int): Int {
 }
 ```
 
-Funktioita siis kirjoitetaan pala palalta. Yleensä yksi funktio hoitaa vain yhtä asiaa, eli esimerkiksi jonkun arvon laskemista, arvon tarkastamista, arvon muokkaamista tai tulostamista.
+Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Edellä mainitun funktio sisältö voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita muotoon:
 
-Funktion ei tarvitse välttämättä palauttaa mitään arvoa. Funktioon ei myöskään välttämättä tarvitse määritellä parametreja. Seuraava on esimerkki funktiosta, jossa ei ole mitään parametreja eikä se palauta mitän arvoa:
+
+```kotlin
+fun lisaaYksi(luku: Int) = luku + 1
+```
+
+Tässä tapauksessa lausekkeen luku + 1 arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana.
+
+Funktion ei tarvitse välttämättä palauttaa mitään arvoa. Funktioon ei myöskään välttämättä tarvitse määritellä parametreja. Seuraava on esimerkki funktiosta, jossa ei ole mitään parametreja eikä se palauta mitään arvoa:
 
 ```kotlin
 fun tulosta() {
     print("Hei!")
 }
 ```
+
+Funktioita siis kirjoitetaan pala palalta. Yleensä yksi funktio hoitaa vain yhtä asiaa, eli esimerkiksi jonkun arvon laskemista, arvon tarkastamista, arvon muokkaamista tai tulostamista.
 
 ## Funktion kutsuminen
 
@@ -118,7 +127,7 @@ fun main() {
 }
 ```
 
-Myös itse tehdystä funktiosta voidaa kutsua joko valmiita funktioita, tai muita itse tehtetyjä funktioita. Seuraavassa esimerkissä main-funktiosta kutsutaan itse tehtyä tulostaTulos-funktiota. Tulosta funktiossa kutsutaan valmista *print*-funktiota, sekä itse tehtyä laskeSumma-funktiota.
+Myös itse tehdystä funktiosta voidaan kutsua joko Kotlinin valmiita funktioita tai muita itse tehtyjä funktioita. Seuraavassa esimerkissä main-funktiosta kutsutaan itse tehtyä tulostaTulos-funktiota. TulostaTulos funktiossa kutsutaan valmista *print*-funktiota, sekä itse tehtyä laskeSumma-funktiota.
 
 ```kotlin
 fun laskeSumma(a: Int, b: Int) : Int {
@@ -134,9 +143,33 @@ fun main() {
 }
 ```
 
+## Funktion oletuspaluuarvo
+
+Kotlinissa funktion parametreillä voi olla oletusarvoja, joita käytetään silloin, kun funktiota kutsutaan ilman annettua parametria. Funktion oletuspaluuarvo määritellään funktion parametrin tyypin jälkeen yhtäsuuruus-merkin avulla:
+
+```kotlin
+fun tulosta(tervehdys: String = "Hei!") = println(tervehdys)
+```
+
+Nyt yllä olevaa funktiota voidaan kutsua parametrin avulla tai ilman parametria, jolloin tulostetaan oletusarvo. Seuraavat funktiokutsut:
+
+```kotlin
+tulosta()
+tulosta("Hello!")
+tulosta("Hola!")
+```
+
+tulostavat:
+
+```
+Hei!
+Hello!
+Hola!
+```
+
 ## Yhteenveto
 
-Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funktion parametri ja funktion paluuarvo. Lisäksi tutustuimme funktion osiin sekä parametrittomiin ja parametrillisiin funktioihin. Lopuksi opettelimme kutsumaan erilaisia funktioita. Seuraavissa tehtävissä harjoittelet funktion toiminnan selvittämistä, funktiossa olevien virheiden korjaamista sekä funktion kirjoittamista aivan alusta alkaen.
+Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funktion parametri, funktion paluuarvo ja funktion oletuspaluuarvo. Lisäksi tutustuimme funktion osiin sekä parametrittomiin ja parametrillisiin funktioihin. Opettelimme myös kutsumaan erilaisia funktioita. Seuraavissa tehtävissä harjoittelet funktion toiminnan selvittämistä, funktiossa olevien virheiden korjaamista sekä funktion kirjoittamista aivan alusta alkaen.
 
 ## Tehtävät
 
@@ -170,9 +203,7 @@ Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funkti
 5.3 Mitä seuraava funktio tekee?
 
    ```kotlin
-   fun muuta(nimi : String) : String {
-      return nimi.capitalize()
-   }
+   fun muuta(nimi: String = "tuntematon") = nimi.capitalize()
    ```
 
 5.4 Mene selaimella Kotlin-hiekkalaatikkoon osoitteeseen [https://play.kotlinlang.org/](https://play.kotlinlang.org/) Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
