@@ -4,19 +4,24 @@
 
 | Kotlin                 | Suomi                   | Kuvaus |
 | -----------------------|-------------------------|------: |
+| Boolean                |  |  |
 | break                  |  |  |
+| Char                   |  |  |
 | continue               |  |  |
 | data class             | * |  |
 | do..while              |  |  |
+| Double                 |  |  |
 | else                   |  |  |
 | final class            | * |  |
 | for                    |  |  |
 | fun                    |  |  |
 | if                     |  |  |
+| Int                    |  |  |
 | non-nullable data type | * |  |
 | nullable data type     | * |  |
 | open class             | * |  |
 | return                 |  |  |
+| String                 |  |  |
 | val                    |  |  |
 | var                    |  |  |
 | when                   |  |  |
