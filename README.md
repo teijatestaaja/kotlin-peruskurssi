@@ -14,7 +14,7 @@ Kurssi ei vaadi mitään esitietoja ohjelmoinnista, sillä kurssi alkaa aivan al
 
 ## Kurssin suoritus
 
-Kotlin-ohjelmoinnin peruskurssi on suoritettavissa täysin itsenäisesti ajasta ja paiaksta riippumatta. Kurssi suoritetaan käymällä läpi kukin osio ja tekemällä osiin liittyvät tehtävät.
+Kotlin-ohjelmoinnin peruskurssi on suoritettavissa täysin ajasta ja paikasta riippumatta. Kurssi suoritetaan käymällä itsenäisesti kukin osa läpi ja tekemällä osiin liittyvät tehtävät.
 
 ## Sisältö
 
@@ -39,7 +39,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 
 ![Opettaja](kuvat/opettaja.png "Opettaja")
 
-Kurssin opettajana toimii testiautomaatiokehittäjänä työskentelevä Teija Alasalmi. Teijalla on yli 16 vuoden kokemus ohjelmistotestauksesta sekä ohjelmistojen kehittämistä ketterillä menetelmillä, ja hän koodaa sekä opiskelee koodaamista myös vapaa ajallaan.
+Kurssin opettajana toimii testiautomaatiokehittäjänä työskentelevä Teija Alasalmi. Teijalla on yli 16 vuoden kokemus ohjelmistotestauksesta sekä ohjelmistojen kehittämistä ketterillä menetelmillä, ja hän koodaa sekä opiskelee koodaamista myös vapaa-ajallaan.
 
 Mikäli huomaat kurssimateriaalissa virheitä, ota yhteyttä teija.alasalmi (at) gmail.com
 
