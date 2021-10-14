@@ -1,4 +1,4 @@
-[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md)
+[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md) | [Sanasto](sanasto.md)
 
 # Osa 2: Muuttujat
 
@@ -7,7 +7,7 @@
 - Tunnet käsitteen muuttuja. Tiedät mitä ovat muuttujan tyyppi, muuttujan nimi, ja muuttujan arvo.
 - Osaat luoda ja käsitellä kokonaisluku-, liukuluku-, merkki-, merkkijono- ja totuusarvomuuttujia.
 - Osaat tehdä yksinkertaisia laskutoimituksia.
-- Osaat suorittaa ohjelmia Kotlin-hiekkalaatikossa.
+- Osaat käyttää sujuvasti Kotlin-hiekkalaatikkoa.
 
 Ohjelmointikielissä muuttujalla tarkoitetaan eräänlaista tietovarastoa, johon voidaan säilöä tietoa. Muuttuja voi viitata lähes minkä tyyppiseen tietoon tahansa. Kaikki tietokoneohjelmat, työpöytäsovellukset, www-sovellukset ja mobiilisovellukset säilövät jonkinlaista tietoa. Esimerkiksi mobiilisovellus, johon kirjaudutaan sisälle voi tallentaa kirjautumistapahtumasta monenlaista tietoa sisäisiin muuttujiinsa.
 
