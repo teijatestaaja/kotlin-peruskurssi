@@ -1,8 +1,8 @@
-[Etusivu](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md)
+[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md)
 
-# Kotlin peruskurssi
+# Kotlin-ohjelmoinnin peruskurssi
 
-Kotlin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin.
+Kotlin-ohjelmoinnin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin.
 
 ## Mikä on Kotlin
 
@@ -12,9 +12,13 @@ Kotlin on avoimen lähdekoodin staattisesti tyypitetty yleiskäyttöinen ohjelmo
 
 Kurssi ei vaadi mitään esitietoja ohjelmoinnista, sillä kurssi alkaa aivan alkeista sekä Kotlinin että ohjelmointiin liittyvien käsitteiden osalta. Edistyneemmillä oppijoilla erityisesti Java-kielen perusteiden hallinta helpottaa kurssin asioiden omaksumista. Kurssi on suunniteltu siten, että kurssin suorittamiseen tarvitset ainoastaan toimivan verkkoyhteyden ja selaimen. Kurssin voi suorittaa siten myös esimerkiksi mobiililaitteella.
 
+## Kurssin suoritus
+
+Kotlin-ohjelmoinnin peruskurssi on suoritettavissa täysin itsenäisesti ajasta ja paiaksta riippumatta. Kurssi suoritetaan käymällä läpi kukin osio ja tekemällä osiin liittyvät tehtävät.
+
 ## Sisältö
 
-Tämä Kotlin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin perustehtävissä
+Tämä Kotlin-ohjelmoinnin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin perustehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
@@ -30,6 +34,14 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 | [Osa 4](osa-4.md) | Toistolauseet           | 10       | [Osa 4 ratkaisut](malliratkaisut/osa4_ratkaisut.md) |
 | [Osa 5](osa-5.md) | Funktiot                | 10       | [Osa 5 ratkaisut](malliratkaisut/osa5_ratkaisut.md) |
 |                   | Yhteensä                | 50       | |
+
+## Opettaja
+
+![Opettaja](kuvat/opettaja.png "Opettaja")
+
+Kurssin opettajana toimii testiautomaatiokehittäjänä työskentelevä Teija Alasalmi. Teijalla on yli 16 vuoden kokemus ohjelmistotestauksesta sekä ohjelmistojen kehittämistä ketterillä menetelmillä, ja hän koodaa sekä opiskelee koodaamista myös vapaa ajallaan.
+
+Mikäli huomaat kurssimateriaalissa virheitä, ota yhteyttä teija.alasalmi (at) gmail.com
 
 ## Hyödylliset linkit
 
