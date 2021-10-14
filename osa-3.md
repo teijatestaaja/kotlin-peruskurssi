@@ -1,13 +1,12 @@
-[Etusivu](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md)
+[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md)
 
 # Osa 3: Ehto- ja valintalauseet
 
 ## Oppimistavoitteet
 
-- Tunnet käsitteen ehtolause.
+- Tunnet käsitteet ehtolause ja valintalause.
 - Osaat luoda ehtolauseita, joiden avulla ohjelmaan saadaan vaihtoehtoista toimintaa.
-- Tunnet ehtolauseissa tyypillisesti käytettävät vertailuoperaattorit ja loogiset operaatiot *ja*, *tai*, sekä *ei*.
-- Tunnet käsitteen valintalause.
+- Tunnet ehtolauseissa tyypillisesti käytettävät vertailuoperaattorit ja loogiset operaatiot *ja*, *tai* sekä *ei*.
 - Osaat luoda valintalauseita.
 
 ## Jos-ehtolause
