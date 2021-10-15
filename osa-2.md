@@ -199,14 +199,14 @@ Lopuksi tulosta summa näytölle.
 
 ## Merkki- ja merkkijonomuuttujat
 
-Kotlinissa merkkimuuttuja (Char) määritellään käyttäen yksittäisiä lainausmerkkejä:
+Kotlinissa merkkimuuttuja (Char) määritellään käyttäen yksinkertaisia lainausmerkkejä eli puolilainausmerkkejä siten, että yksittäinen merkkimuuttuja aloitetaan ja lopetetaan puolilainausmerkillä:
 
 ```kotlin
 val merkki = 'A'
 val merkki: Char = 'b'
 ```
 
-Mikäli halutaan määritellä merkiksi yksittäinen lainausmerkki, tulee merkin edessä käyttää kenoviivaa \\
+Mikäli halutaan määritellä merkiksi puolilainausmerkki, tulee merkin edessä käyttää kenoviivaa \\
 
 ```kotlin
 val merkki = '\''
@@ -214,7 +214,7 @@ val merkki = '\''
 
 Samalla tavalla toimitaan mm. seuraavien erikoismerkkien kanssa: ” \ $
 
-Merkkijonomuuttujat (String) puolestaan määritellään käyttäen kaksinkertaisia lainasmerkkejä:
+Merkkijonomuuttujat (String) puolestaan määritellään käyttäen kokolainausmerkkejä eli kaksinkertaisia lainausmerkkejä:
 
 ```kotlin
 val merkkijono = "Kotlin-ohjelmointi on hauskaa!"
