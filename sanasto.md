@@ -9,7 +9,7 @@
 | Char                   | merkkimuuttuja | Muuttuja, joka voi sisältää yhden merkin tai kirjaimen yksinkertaisten lainausmerkkien sisällä. |
 | continue               | jatka, ns. varattu sana | Komento, jolla palataan toistolauseen alkuun. |
 | data class             | * |  |
-| do..while              | suorita, ns. varattu sana | Sana, jolla aloitetaan sellaisen toistolauseen määrittely, jossa ohjelmalohko suoritetaan ennen toistolauseen ehtolauseen toteutumisen tarkastusta. |
+| do..while              | suorita...niin kauan kunnes, ns. varattu sana | Sana, jolla aloitetaan sellaisen toistolauseen määrittely, jossa ohjelmalohko suoritetaan ennen toistolauseen ehtolauseen toteutumisen tarkastusta. |
 | Double                 | liukulukumuuttuja |  Muuttuja, joka sisältää desimaaliluvun liukulukuna. |
 | else                   | muulloin-haara jos-ehtolauseessa | Ehtolauseeseen määritelty haara, jonka määrittelemä ohjelmalohko suoritetaan, jos varsinaisen ehtolauseen ehto ei toteudu. |
 | final class            | * |  |
