@@ -3,29 +3,29 @@
 # Kotlin-Suomi -sanasto
 
 | Kotlin                 | Suomi                   | Kuvaus |
-| -----------------------|-------------------------|------: |
-| Boolean                |  |  |
-| break                  |  |  |
-| Char                   |  |  |
-| continue               |  |  |
+| -----------------------|-------------------------|------- |
+| Boolean                | totuusarvomuuttuja | Muuttuja, jolla voi olla arvona joko 0 (epätosi) tai 1 (tosi). |
+| break                  | katkaise, ns. varattu sana | Komento, jolla toistolauseen suoritus lopetetaan. |
+| Char                   | merkkimuuttuja | Muuttuja, joka voi sisältää yhden merkin tai kirjaimen yksinkertaisten lainausmerkkien sisällä. |
+| continue               | jatka, ns. varattu sana | Komento, jolla palataan toistolauseen alkuun. |
 | data class             | * |  |
-| do..while              |  |  |
-| Double                 |  |  |
-| else                   |  |  |
+| do..while              | suorita, ns. varattu sana | Sana, jolla aloitetaan sellaisen toistolauseen määrittely, jossa varsinainen suoritettava toistolohko annetaan jälkiehtona. |
+| Double                 | liukulukumuuttuja |  Muuttuja, joka sisältää desimaaliluvun liukulukuna. |
+| else                   | muulloin-haara jos-ehtolauseessa | Ehtolauseeseen määritelty haara, jonka määrittelemä ohjelmalohko suoritetaan, jos varsinaisen ehtolauseen ehto ei toteudu. |
 | final class            | * |  |
-| for                    |  |  |
-| fun                    |  |  |
-| if                     |  |  |
-| Int                    |  |  |
+| for                    | tietyn aikaa, ns. varattu sana | Sana, jolla aloitetaan toistolauseen määrittely. |
+| fun                    | lyhenne sanasta "function", ns. varattu sana | Lyhenne, jolla Kotlinissa aloitetaan funktion määrittely. |
+| if                     | jos-ehtolauseen aloittava varattu sana | Ehtolause, jolla määritellään ohjelmaan vaihtoehtoisia suorituspolkuja eli haaroja. |
+| Int                    | kokonaislukumuuttuja | Muuttuja, joka sisältää kokonaislukuarvoja väliltä -2 147 483 648 ja 2 147 483 647. |
 | non-nullable data type | * |  |
 | nullable data type     | * |  |
 | open class             | * |  |
-| return                 |  |  |
-| String                 |  |  |
-| val                    |  |  |
-| var                    |  |  |
-| when                   |  |  |
-| while                  |  |  |
+| return                 | paluu, ns. varattu sana | Komento, jolla funktion suoritus lopetetaan palaamalla kutsuvaan ohjelman osaan, tai komento jolla koko ohjelman suoritus lopetetaan. |
+| String                 | merkkijonomuuttuja | Muuttuja, joka voi sisältää merkkijonoja kaksinkertaisten lainausmerkkien sisällä. |
+| val                    | lyhenne sanasta "value", ns. varattu sana | val-sanalla esitellyn muuttujan arvoa ei voi muuttaa jälkikäteen. |
+| var                    | lyhenne sanasta "variable", ns. varattu sana | var-sanalla esitellyn muuttujan arvon voi muuttaa jälkikäteen. |
+| when                   | kun, ns. varattu sana | Sana, jolla aloitetaan valintalauseen määrittely. Valintalauseilla ohjelmaan saadaan tehtyä vaihtoehtoisia polkuja. |
+| while                  | niin kauan kunnes, ns. varattu sana | Sana, jolla aloitetaan toistolauseen määrittely. |
 
 
 * ei käsitelty tällä kurssilla
