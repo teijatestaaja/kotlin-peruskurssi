@@ -159,14 +159,16 @@ Hola!
 
 ## Lauseke funktion sisältönä
 
-Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Aiemmin funktion osat -kohdassa esitellyn lisaaYksi-funktion sisältö voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita muotoon:
+Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Funktio voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita. Näin koodista saadaan tiiviimpää, kun kaikki "ylimääräinen" saadaan poistettua.
+
+Esimerkiksi edellä funktion osat -kohdassa esitellyn lisaaYksi-funktion sisältö voidaan lyhentää muotoon:
 
 
 ```kotlin
 fun lisaaYksi(luku: Int) = luku + 1
 ```
 
-Tässä tapauksessa lausekkeen luku + 1 arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana. Tässä tapauksessa paluuarvon tyyppinä on kokonaisluku.
+Yllä olevassa esimerkissä lausekkeen luku + 1 arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana. Tässä tapauksessa paluuarvon tyyppinä on kokonaisluku.
 
 Osiossa 3 esiteltiin jos-ehtolause, jonka palauttama lauseke voi siis myös olla funktion sisältönä:
 
@@ -180,9 +182,9 @@ Samaan tapaan myös osiossa 3 esitellyn kun-valintalauseen palauttama lauseke vo
 
 ```kotlin
 fun kokonaisluvunArvoMerkkijonona(x: Int) = when {
-	x < 0 -> "negatiivinen"
-    x == 0 -> "nolla"
-    else -> "positiivinen"
+   x < 0 -> "negatiivinen"
+   x == 0 -> "nolla"
+   else -> "positiivinen"
 }
 ```
 
