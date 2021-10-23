@@ -1,4 +1,4 @@
-[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md) | [Sanasto](sanasto.md)
+[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Yhteenveto](yhteenveto.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md) | [Sanasto](sanasto.md)
 
 # Osa 4: Toistolauseet
 
@@ -233,3 +233,7 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
 4.10 Kirjoita ohjelma, joka tulostaa luvut 10 12 14 16 18 20
 
 Kun olet saanut osan 4 tehtävät tehtyä, voit siirtyä tämän kurssin viimeiseen [osaan 5](osa-5.md).
+
+> (c) Teija Alasalmi 2021
+
+> Kurssimateriaalin käyttäminen kaupallisiin tarkoituksiin tai opetusmateriaalina ilman lupaa on ehdottomasti kielletty!

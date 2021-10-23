@@ -1,4 +1,4 @@
-[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md) | [Sanasto](sanasto.md)
+[Tietoa kurssista](README.md) | [Osa 1](osa-1.md) | [Osa 2](osa-2.md) | [Osa 3](osa-3.md) | [Osa 4](osa-4.md) | [Osa 5](osa-5.md) | [Yhteenveto](yhteenveto.md) | [Malliratkaisut](malliratkaisut/malliratkaisut.md) | [FAQ](faq.md) | [Sanasto](sanasto.md)
 
 # Kotlin-ohjelmoinnin peruskurssi
 
@@ -28,7 +28,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 
 | Osa               | Aihe                    | Tehtäviä | Malliratkaisut |
 | ------------------|-------------------------|--------- | -------------: |
-| [Osa 1](osa-1.md) | Tulostaminen            | 5        | [Osa 1 ratkaisut](malliratkaisut/osa1_ratkaisut.md) |
+| [Osa 1](osa-1.md) | Ohjelman rakenne        | 5        | [Osa 1 ratkaisut](malliratkaisut/osa1_ratkaisut.md) |
 | [Osa 2](osa-2.md) | Muuttujat               | 15       | [Osa 2 ratkaisut](malliratkaisut/osa2_ratkaisut.md) |
 | [Osa 3](osa-3.md) | Ehto- ja valintalauseet | 10       | [Osa 3 ratkaisut](malliratkaisut/osa3_ratkaisut.md) |
 | [Osa 4](osa-4.md) | Toistolauseet           | 10       | [Osa 4 ratkaisut](malliratkaisut/osa4_ratkaisut.md) |
@@ -48,6 +48,6 @@ Mikäli huomaat kurssimateriaalissa virheitä, ota yhteyttä teija.alasalmi (at)
 - [Kotlin-hiekkalaatikko](https://play.kotlinlang.org/)
 - [Kotlin](https://kotlinlang.org/)
 
-(c) Teija Alasalmi 2021
+> (c) Teija Alasalmi 2021
 
-Kurssimateriaalin käyttäminen kaupallisiin tarkoituksiin tai opetusmateriaalina ilman lupaa on ehdottomasti kielletty!
+> Kurssimateriaalin käyttäminen kaupallisiin tarkoituksiin tai opetusmateriaalina ilman lupaa on ehdottomasti kielletty!
