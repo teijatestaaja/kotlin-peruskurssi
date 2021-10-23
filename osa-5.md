@@ -159,24 +159,25 @@ Hola!
 
 ## Lauseke funktion sisältönä
 
-Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Funktio voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita. Näin koodista saadaan tiiviimpää, kun kaikki "ylimääräinen" saadaan poistettua.
+Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Funktio voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita. Näin koodista saadaan tiiviimpää, kun kaikki "ylimääräinen" saadaan poistettua. Funktion osat näyttävät tällöin esimerkiksi seuraavalta:
 
-Esimerkiksi edellä funktion osat -kohdassa esitellyn lisaaYksi-funktion sisältö voidaan lyhentää muotoon:
+![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki1.png "Funktion sisältönä lauseke")
 
+Funktion sisältönä voi siis olla esimerkiksi Osiossa 3 esitelty jos-ehtolause. Ajatellaan, että haluaisimme koostaa funktion seuraavista palasista:
 
-```kotlin
-fun lisaaYksi(luku: Int) = luku + 1
-```
+![Funktion osat](kuvat/funktio_esimerkki2.png "Funktion osat")
 
-Yllä olevassa esimerkissä lausekkeen luku + 1 arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana. Tässä tapauksessa paluuarvon tyyppinä on kokonaisluku.
+Normaalisti pidemmässä muodossa kirjoitettuna funktio näyttäisi tältä:
 
-Osiossa 3 esiteltiin jos-ehtolause, jonka palauttama lauseke voi siis myös olla funktion sisältönä:
+![Funktio, jonka sisältönä jos-ehtolause](kuvat/funktio_esimerkki4.png "Funktio jonka sisältönä jos-ehtolause")
 
-```kotlin
-fun tarkastaIka(ika: Int) = if (ika >= 18) "täysi-ikäinen" else "alaikäinen"
-```
+Funktion sisältö voidaan kuitenkin siis kirjoittaa lausekkeen avulla ilman funktion paluuarvon tyyppiä, return-lauseita ja funktion lohkon merkkaavia kaarisulkeita. Tällöin funktio näyttäisi seuraavanlaiselta:
 
-Tässä funktio tarkastaa parametrinä annetun ika-muuttujan, ja palauttaa merkkijonon "täysi-ikäinen" iän ollessa 18 tai enemmän, muuten merkkijonon "alaikäinen".
+![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki3.png "Funktion sisältönä lauseke")
+
+Yllä olevassa esimerkissä jos-ehtolauseen arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana, koska sitä ei tarvitse kirjoittaa näkyviin. Tässä tapauksessa paluuarvon tyyppinä on merkkijono. Esimerkin unktio tarkastaa parametrinä annetun ika-muuttujan, ja palauttaa merkkijonon "täysi-ikäinen" iän ollessa 18 tai enemmän, muuten merkkijonon "alaikäinen".
+
+Huomaa, että yllä oleva funktio vie tilaa vain yhden koodirivin pidemmän muodon kuuden rivin sijaan. Ohjelmakoodia saa siten hyvin tiivistettyä käyttämällä lausekkeita funktion sisältönä.
 
 Samaan tapaan myös osiossa 3 esitellyn kun-valintalauseen palauttama lauseke voi olla funktion sisältönä:
 
