@@ -12,6 +12,7 @@
 | do..while              | suorita...niin kauan kunnes, ns. varattu sana | Sana, jolla aloitetaan sellaisen toistolauseen määrittely, jossa ohjelmalohko suoritetaan ennen toistolauseen ehtolauseen toteutumisen tarkastusta. |
 | Double                 | liukulukumuuttuja |  Muuttuja, joka sisältää desimaaliluvun liukulukuna. |
 | else                   | muulloin-haara jos-ehtolauseessa | Ehtolauseeseen määritelty haara, jonka määrittelemä ohjelmalohko suoritetaan, jos varsinaisen ehtolauseen ehto ei toteudu. |
+| expression | lauseke | Arvojen ja funktioiden yhdistelmä, joka evaluoituu tietyksi arvoksi. |
 | final class            | * |  |
 | for                    | tietyn aikaa, ns. varattu sana | Sana, jolla aloitetaan toistolauseen määrittely. |
 | fun                    | lyhenne sanasta "function", ns. varattu sana | Lyhenne, jolla Kotlinissa aloitetaan funktion määrittely. |

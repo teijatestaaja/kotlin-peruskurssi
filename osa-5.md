@@ -85,15 +85,6 @@ fun lisaaYksi(luku: Int): Int {
 }
 ```
 
-Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Edellä mainitun funktio sisältö voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita muotoon:
-
-
-```kotlin
-fun lisaaYksi(luku: Int) = luku + 1
-```
-
-Tässä tapauksessa lausekkeen luku + 1 arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana.
-
 Funktion ei tarvitse välttämättä palauttaa mitään arvoa. Funktioon ei myöskään välttämättä tarvitse määritellä parametreja. Seuraava on esimerkki funktiosta, jossa ei ole mitään parametreja eikä se palauta mitään arvoa:
 
 ```kotlin
@@ -164,6 +155,35 @@ tulostavat:
 Hei!
 Hello!
 Hola!
+```
+
+## Lauseke funktion sisältönä
+
+Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Aiemmin funktion osat -kohdassa esitellyn lisaaYksi-funktion sisältö voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita muotoon:
+
+
+```kotlin
+fun lisaaYksi(luku: Int) = luku + 1
+```
+
+Tässä tapauksessa lausekkeen luku + 1 arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana. Tässä tapauksessa paluuarvon tyyppinä on kokonaisluku.
+
+Osiossa 3 esiteltiin jos-ehtolause, jonka palauttama lauseke voi siis myös olla funktion sisältönä:
+
+```kotlin
+fun tarkastaIka(ika: Int) = if (ika >= 18) "täysi-ikäinen" else "alaikäinen"
+```
+
+Tässä funktio tarkastaa parametrinä annetun ika-muuttujan, ja palauttaa merkkijonon "täysi-ikäinen" iän ollessa 18 tai enemmän, muuten merkkijonon "alaikäinen".
+
+Samaan tapaan myös osiossa 3 esitellyn kun-valintalauseen palauttama lauseke voi olla funktion sisältönä:
+
+```kotlin
+fun kokonaisluvunArvoMerkkijonona(x: Int) = when {
+	x < 0 -> "negatiivinen"
+    x == 0 -> "nolla"
+    else -> "positiivinen"
+}
 ```
 
 ## Yhteenveto

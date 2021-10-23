@@ -39,7 +39,7 @@ if () {
 }
 ```
 
-Ehtolauseessa sulkujen sisälle asetetaan lauseke, joka evaluoidaan kun ehtolause saavutetaan. Evaluoinnin tulos on totuusarvo. Sulkuja seuraa lohko, joka määritellään aaltosulkeiden sisään. Lohkon sisällä oleva lähdekoodi suoritetaan mikäli sulkujen sisälle asetettu lauseke evaluoidaan todeksi (true). Edellä esitetyssä esimerkissä
+Ehtolauseessa sulkujen sisälle asetetaan lauseke, joka evaluoidaan kun ehtolause saavutetaan. Evaluoinnin tulos on totuusarvo. Sulkuja seuraa lohko, joka määritellään aaltosulkeiden sisään. Lohkon sisällä oleva lähdekoodi suoritetaan mikäli sulkujen sisälle asetettu lauseke evaluoidaan todeksi (true). Edellä esitetyssä esimerkissä:
 
 ```kotlin
 val salasana = "123abc"
@@ -86,7 +86,7 @@ else {
 
 Muuten-lauseessa suoritettava lähdekoodi kirjoitetaan aaltosulkeiden sisään. Lohkon sisällä oleva lähdekoodi suoritetaan mikäli jos-ehtolauseen lauseke evaluoidaan epätodeksi (false). Muuten-lauseketta ei suoriteta, jos jos-ehtolauseen lauseke evaluoidaan todeksi.
 
-Kotlinissa on yksi erikoisuus esimerkiksi Java-ohjelmointikieleen verrattuna. Kotlinissa avainsanalla *if* määritelty ehtolause on myös ns. ilmaus (expression), joka palauttaa arvon. Tämän vuoksi ehtolauseen arvo voidaan sijoittaa muuttujaan:
+Kotlinissa on yksi erikoisuus esimerkiksi Java-ohjelmointikieleen verrattuna. Kotlinissa avainsanalla *if* määritelty ehtolause on aina myös ns. lauseke (expression), joka palauttaa arvon. Tämän vuoksi ehtolauseen arvo voidaan sijoittaa muuttujaan:
 
 ```kotlin
 val salasana = "123abc"
@@ -96,6 +96,8 @@ print(viesti)
 ```
 
 Esimerkissä sijoitetaan viesti-muuttujaan jos-ehtolauseen palauttama arvo. Koska salasana-muuttujan sisältö on merkkijono 123abc, ehtolause palauttaa tekstin *Tervetuloa!* joka asetetaan viestin-muuttujan arvoksi. Komennolla *print* viesti-muuttujan sisältö tulostetaan lopuksi näytölle.
+
+Huomaa, että aina kun jos-ehtolauseen arvo sijoitetaan muuttujaan, on muuten-lause pakollinen.
 
 ## Loogiset operaatiot
 
@@ -243,6 +245,17 @@ when (ika) {
    else -> print("Saat ajaa autolla")
 }
 ```
+
+Kotlinissa avainsanalla *when* määritelty valintalause on myös aina lauseke jos-valintalauseen tapaan. Lausekkeen arvo voidaan siis sijoittaa esimerkiksi muuttujaan:
+
+```kotlin
+var nopanheitto = when (x) {
+   in 1..6 -> "ok"
+   else -> "virhe"
+}
+```
+
+Ylläoleva lauseke palauttaa nopanheitto-muuttujaan arvoksi joko merkkijonon "ok", jos x:n arvo on välillä 1-6, muuten lauseke palauttaa muuttujaan arvoksi merkkijonon "virhe".
 
 ## Yhteenveto
 
