@@ -161,19 +161,19 @@ Hola!
 
 Kotlinissa on lisäksi mahdollisuus kirjoittaa funktiot vieläkin tiiviimmin silloin, kun funktio on yksinkertainen. Funktio voidaan kirjoittaa pelkkänä lausekkeena, ilman funktion paluuarvon tyyppiä, return-lausetta ja lohkon merkkaavia kaarisulkeita. Näin koodista saadaan tiiviimpää, kun kaikki "ylimääräinen" saadaan poistettua. Funktion osat näyttävät tällöin esimerkiksi seuraavalta:
 
-![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki1.png "Funktion sisältönä lauseke")
+![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki1.PNG "Funktion sisältönä lauseke")
 
 Funktion sisältönä voi siis olla esimerkiksi Osiossa 3 esitelty jos-ehtolause. Ajatellaan, että haluaisimme koostaa funktion seuraavista palasista:
 
-![Funktion osat](kuvat/funktio_esimerkki2.png "Funktion osat")
+![Funktion osat](kuvat/funktio_esimerkki2.PNG "Funktion osat")
 
 Normaalisti pidemmässä muodossa kirjoitettuna funktio näyttäisi tältä:
 
-![Funktio, jonka sisältönä jos-ehtolause](kuvat/funktio_esimerkki4.png "Funktio jonka sisältönä jos-ehtolause")
+![Funktio, jonka sisältönä jos-ehtolause](kuvat/funktio_esimerkki4.PNG "Funktio jonka sisältönä jos-ehtolause")
 
 Funktion sisältö voidaan kuitenkin siis kirjoittaa lausekkeen avulla ilman funktion paluuarvon tyyppiä, return-lauseita ja funktion lohkon merkkaavia kaarisulkeita. Tällöin funktio näyttäisi seuraavanlaiselta:
 
-![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki3.png "Funktion sisältönä lauseke")
+![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki3.PNG "Funktion sisältönä lauseke")
 
 Yllä olevassa esimerkissä jos-ehtolauseen arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana, koska sitä ei tarvitse kirjoittaa näkyviin. Tässä tapauksessa paluuarvon tyyppinä on merkkijono. Esimerkin unktio tarkastaa parametrinä annetun ika-muuttujan, ja palauttaa merkkijonon "täysi-ikäinen" iän ollessa 18 tai enemmän, muuten merkkijonon "alaikäinen".
 
