@@ -175,7 +175,7 @@ Funktion sisältö voidaan kuitenkin siis kirjoittaa lausekkeen avulla ilman fun
 
 ![Funktio, jonka sisältönä lauseke](kuvat/funktio_esimerkki3.PNG "Funktion sisältönä lauseke")
 
-Yllä olevassa esimerkissä jos-ehtolauseen arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana, koska sitä ei tarvitse kirjoittaa näkyviin. Tässä tapauksessa paluuarvon tyyppinä on merkkijono. Esimerkin unktio tarkastaa parametrinä annetun ika-muuttujan, ja palauttaa merkkijonon "täysi-ikäinen" iän ollessa 18 tai enemmän, muuten merkkijonon "alaikäinen".
+Yllä olevassa esimerkissä jos-ehtolauseen arvo sijoitetaan funktion paluuarvoksi. Kotlin-kääntäjä päättelee funktion palauttavan paluuarvon tyypin itse ajon aikana, koska sitä ei tarvitse kirjoittaa näkyviin. Tässä tapauksessa paluuarvon tyyppinä on merkkijono. Esimerkin funktio tarkastaa parametrinä annetun ika-muuttujan, ja palauttaa merkkijonon "täysi-ikäinen" iän ollessa 18 tai enemmän, muuten merkkijonon "alaikäinen".
 
 Huomaa, että yllä oleva funktio vie tilaa vain yhden koodirivin pidemmän muodon kuuden rivin sijaan. Ohjelmakoodia saa siten hyvin tiivistettyä käyttämällä lausekkeita funktion sisältönä.
 
