@@ -22,8 +22,8 @@
 | open class             | * |  |
 | return                 | paluu, ns. varattu sana | Komento, jolla funktion suoritus lopetetaan palaamalla kutsuvaan ohjelman osaan, tai komento jolla koko ohjelman suoritus lopetetaan. |
 | String                 | merkkijonomuuttuja | Muuttuja, joka voi sisältää merkkijonoja kaksinkertaisten lainausmerkkien sisällä. |
-| val                    | lyhenne sanasta "value", ns. varattu sana | val-sanalla esitellyn muuttujan arvoa ei voi muuttaa jälkikäteen. |
-| var                    | lyhenne sanasta "variable", ns. varattu sana | var-sanalla esitellyn muuttujan arvon voi muuttaa jälkikäteen. |
+| val                    | lyhenne sanasta "value", ns. varattu sana | Sana, jonka avulla esitellyn muuttujan arvoa ei voi muuttaa jälkikäteen. |
+| var                    | lyhenne sanasta "variable", ns. varattu sana | Sana, jonka avulla esitellyn muuttujan arvon voi muuttaa jälkikäteen. |
 | when                   | kun, ns. varattu sana | Sana, jolla aloitetaan valintalauseen määrittely. Valintalauseilla ohjelmaan saadaan tehtyä vaihtoehtoisia polkuja. |
 | while                  | niin kauan kunnes, ns. varattu sana | Sana, jolla aloitetaan toistolauseen määrittely. |
 
