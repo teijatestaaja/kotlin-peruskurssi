@@ -2,7 +2,7 @@
 
 # Kotlin-ohjelmoinnin peruskurssi
 
-Kotlin-ohjelmoinnin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin.
+Kotlin-ohjelmoinnin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin, ja kurssi on yhden opisntopisteen laajuinen.
 
 ## Mikä on Kotlin
 
@@ -18,7 +18,9 @@ Kotlin-ohjelmoinnin peruskurssi on suoritettavissa täysin ajasta ja paikasta ri
 
 ## Sisältö
 
-Tämä Kotlin-ohjelmoinnin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan tehtävien tekoon kannattaa varata aikaa noin 1-3 tuntia. Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin perustehtävissä
+Tämä Kotlin-ohjelmoinnin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan teorian opiskeluun ja tehtävien tekoon kannattaa varata aikaa osiosta riippuen noin 2-10 tuntia. Alla olevasta taulokosta näet osion opiskeluun menevän ohjeellisen ajan.
+
+Kurssin tehtävät on jaettu kahteen tasoon. Suurin osa tehtävistä on suhteellisen helppoja perustehtäviä, joiden avulla harjoitellaan Kotlinin perusteita. Kurssin perustehtävissä
 
 - luet ja analysoit ohjelmakoodia
 - korjaat tai muutat valmista ohjelmakoodia sekä
@@ -26,14 +28,14 @@ Tämä Kotlin-ohjelmoinnin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee
 
 Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, joka vaatii hoksaamista tai osiossa opitun asian syvempää osaamista. Kurssin tehtävät tehdään [Kotlin-hiekkalaatikossa](https://play.kotlinlang.org). Tehtävät voit halutessasi tehdä myös jollakin Kotlinia tukevalla editorilla tai ohjelmointiympäristöllä. Suositeltavia ilmaisia koodieditoreja ovat [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) tai [Visual Studio Code](https://code.visualstudio.com/).
 
-| Osa               | Aihe                    | Tehtäviä | Malliratkaisut |
-| ------------------|-------------------------|--------- | -------------: |
-| [Osa 1](osa-1.md) | Ohjelman rakenne        | 5        | [Osa 1 ratkaisut](malliratkaisut/osa1_ratkaisut.md) |
-| [Osa 2](osa-2.md) | Muuttujat               | 15       | [Osa 2 ratkaisut](malliratkaisut/osa2_ratkaisut.md) |
-| [Osa 3](osa-3.md) | Ehto- ja valintalauseet | 10       | [Osa 3 ratkaisut](malliratkaisut/osa3_ratkaisut.md) |
-| [Osa 4](osa-4.md) | Toistolauseet           | 10       | [Osa 4 ratkaisut](malliratkaisut/osa4_ratkaisut.md) |
-| [Osa 5](osa-5.md) | Funktiot                | 10       | [Osa 5 ratkaisut](malliratkaisut/osa5_ratkaisut.md) |
-|                   | Yhteensä                | 50       | |
+| Osa               | Aihe                    | Tehtäviä | Aika-arvio | Malliratkaisut |
+| ------------------|-------------------------|--------- |------- | -------------: |
+| [Osa 1](osa-1.md) | Ohjelman rakenne        | 5        | 2 h | [Osa 1 ratkaisut](malliratkaisut/osa1_ratkaisut.md) |
+| [Osa 2](osa-2.md) | Muuttujat               | 15       | 10 h | [Osa 2 ratkaisut](malliratkaisut/osa2_ratkaisut.md) |
+| [Osa 3](osa-3.md) | Ehto- ja valintalauseet | 10       | 5 h | [Osa 3 ratkaisut](malliratkaisut/osa3_ratkaisut.md) |
+| [Osa 4](osa-4.md) | Toistolauseet           | 10       | 5 h | [Osa 4 ratkaisut](malliratkaisut/osa4_ratkaisut.md) |
+| [Osa 5](osa-5.md) | Funktiot                | 10       | 5 h | [Osa 5 ratkaisut](malliratkaisut/osa5_ratkaisut.md) |
+|                   | Yhteensä                | 50       | 27 h | |
 
 ## Opettaja
 
