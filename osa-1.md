@@ -131,7 +131,7 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    Kotlinilla!
    ```
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
+   ![Guru](kuvat/star.PNG "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 1.5 Alla olevassa ohjelmassa on virhe:
 
