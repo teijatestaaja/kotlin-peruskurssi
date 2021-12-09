@@ -272,11 +272,15 @@ Tässä kurssin osassa käsiteltiin funktioita. Tutustuimme käsitteisiin funkti
 5.8 Kirjoita funktio, joka palauttaa parametrinaan saamistaan kahdesta kokonaisluvusta suurimman.
 
 5.9 Kirjoita funktio, joka tarkasta oliko parametrina saatu luku positiviinen. Jos oli, funktio palauttaa merkkijonon "positiivinen". Jos luku oli 0, funktio palauttaa merkkijonon "nolla". Muutoin palauttaa merkkijonon "negatiivinen".
-
+\
+\
+\
 ![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 5.10 Kirjoita funktio, joka saa parametrinaan kolme kokonaislukua satunnaisessa järjestyksessä ja joka tulostaa luvuista pienimmän.
-
+\
+\
+\
 Hienoa! Nyt olet suorittanut kurssin loppuun.
 
 > (c) Teija Alasalmi 2021

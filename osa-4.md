@@ -227,11 +227,15 @@ Tässä kurssin osassa käsiteltiin erilaisia toistolauseita, joita käytetään
 4.8 Kirjoita ohjelma, joka laskee ja tulostaa näytölle luvut 1-100 käänteisessä järjestyksessä.
 
 4.9 Kirjoita ohjelma, joka kirjoittaa 5 kertaa näytölle tekstin "Hei maailma!"
-
+\
+\
+\
 ![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 4.10 Kirjoita ohjelma, joka tulostaa luvut 10 12 14 16 18 20
-
+\
+\
+\
 Kun olet saanut osan 4 tehtävät tehtyä, voit siirtyä tämän kurssin viimeiseen [osaan 5](osa-5.md).
 
 > (c) Teija Alasalmi 2021

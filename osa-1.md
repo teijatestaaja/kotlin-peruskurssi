@@ -130,8 +130,10 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    Ohjelmoidaan
    Kotlinilla!
    ```
-
-   ![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
+\
+\
+\
+![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 1.5 Alla olevassa ohjelmassa on virhe:
 
@@ -142,7 +144,9 @@ Lisää print-lauseen perään puolipiste ja aja ohjelma uudelleen. Mitä ohjelm
    ```
 
    Aja ohjelma Kotlin-hiekkalaatikossa ja korjaa virheet hiekkalaatikon antamien virheilmoitusten mukaan.
-
+\
+\
+\
 Kun olet saanut osan 1 tehtävät tehtyä, voit siirtyä [osaan 2](osa-2.md).
 
 > (c) Teija Alasalmi 2021
