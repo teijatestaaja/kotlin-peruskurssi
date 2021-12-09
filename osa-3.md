@@ -336,7 +336,7 @@ Tässä kurssin osassa käsiteltiin ehto- ja valintalauseita Kotlin-ohjelmointik
 
 3.9 Kirjoita ohjelma, joka laskee ja tulostaa näytölle kahden luvun a ja b osamäärän, jos jaettava b on eri suuri kuin nolla.
 
-![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
+![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 3.10 Kirjoita ohjelma, joka tarkastaa onko luku jaollinen luvulla 2 sekä luvulla 4. Jos luku on jaollinen sekä kahdella että 4:lla, ohjelma tulostaa merkkijonon *jaollinen 2:lla ja 4:lla*.
 
