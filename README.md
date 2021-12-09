@@ -2,7 +2,7 @@
 
 # Kotlin-ohjelmoinnin peruskurssi
 
-Kotlin-ohjelmoinnin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin, ja kurssi on yhden opisntopisteen laajuinen.
+Kotlin-ohjelmoinnin peruskurssi on kaikille Kotlin-ohjelmointikielestä kiinnostuneille suunnattu avoin ja ilmainen verkkokurssi. Kurssilla perehdytään Kotlin-ohjelmointikielen perusteisiin, ja kurssi on yhden opintopisteen laajuinen.
 
 ## Mikä on Kotlin
 
