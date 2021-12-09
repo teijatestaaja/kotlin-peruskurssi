@@ -388,7 +388,7 @@ Kopioi seuraava ohjelmakoodi hiekkalaatikkoon
 
 2.14 Kirjoita ohjelma, joka luo muuttujan, antaa sille arvon 100 ja tulostaa muuttujan. Tämän jälkeen ohjelma muuttaa saman muuttujan arvoksi 10 ja tulostaa muuttujan.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
+![Guru](kuvat/star.png "Guru-tehtävä")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Guru-tehtävä**
 
 2.15 Kirjoita ohjelma, joka laskee ja tulostaa seuraavien laskujen tulokset näytölle:
 
