@@ -4,8 +4,8 @@
 
 ## Oppimistavoitteet
 
-- Opit kirjoittamaan yksinkertaisen Kotlin-ohjelman, joka tulostaa tekstiä.
-- Tutustut Kotlin-hiekkalaatikkoon.
+- Osaat kirjoittaa yksinkertaisen Kotlin-ohjelman, joka tulostaa tekstiä.
+- Tiedät mikä on Kotlin-hiekkalaatikko.
 - Osaat tulkita ja korjata ohjelman suorittamisessa aiheutuneita yksinkertaisia virheitä.
 - Osaat kirjoittaa koodiin kommentteja.
 
