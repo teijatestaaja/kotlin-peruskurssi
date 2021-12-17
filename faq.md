@@ -8,7 +8,7 @@ Kurssilla ei ole virallista aikataulua, vaan voit suorittaa sen haluamassasi tah
 
 ## Saako kurssista todistusta?
 
-Epävirallisen todistuksen kurssin suorittamisesta saat laittamalla sähköpostia osoitteeseen teija.alasalmi (at) gmail.com
+Epävirallisen todistuksen kurssin suorittamisesta saat laittamalla sähköpostia osoitteeseen teija.alasalmi (at) gmail.com ja vastaamalla muutamaan yksinkertaiseen kysymykseen ;)
 
 ## Missä voin opiskella lisää Kotlinia?
 
