@@ -2,6 +2,8 @@
 
 # Malliratkaisut
 
+Joihinkin tehtäviin on olemassa monia ratkaisutapoja. Näissä malliratkaisuissa esitetään vain yhdenlaiset esimerkit.
+
 - [Osa 1 ratkaisut](osa1_ratkaisut.md)
 - [Osa 2 ratkaisut](osa2_ratkaisut.md)
 - [Osa 3 ratkaisut](osa3_ratkaisut.md)

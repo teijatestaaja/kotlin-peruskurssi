@@ -23,6 +23,8 @@ fun main() {
 
 Tehtävä 2.3
 
+Tässä tehtävässä voi hyödyntää [Kotlinin math-kirjastoa](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.math/), jos haluaa käyttää piin tarkkaa arvoa. Voi myös luoda oman muuttujan arvolla 3,14
+
 ```kotlin 
 fun main() {
     val sade = 10.0
@@ -56,6 +58,8 @@ fun main() {
 
 Tehtävä 2.7
 
+Tässä kohtaa voi käyttää tulostuksessa joko yksinkertaisia lainausmerkkejä (char-merkkimuuttuja) tai kaksinkertaisia lainausmerkkejä (string-merkkijonomuuttuja).
+
 ```kotlin
 fun main() {
     print("X")
@@ -74,10 +78,11 @@ fun main() {
 
 Tehtävä 2.9
 
+Tässä tehtävässä voi käyttää kenoviivaa sekä lauseen sisältävien lainausmerkkien merkitsemiseen että rivinvaihdon tekemiseen erikoismerkillä \n
+
 ```kotlin
 fun main() {
-    val teksti = """Hän sanoi: "Kotlin-ohjelmointi on hauskaa!"
-ja lähti koodaamaan."""
+    val teksti = "Hän sanoi: \"Kotlin-ohjelmointi on hauskaa\"!\nja lähti koodaamaan."
     print(teksti)
 }
 ```
