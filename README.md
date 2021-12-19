@@ -16,6 +16,8 @@ Kurssi ei vaadi mitään esitietoja ohjelmoinnista, sillä kurssi alkaa aivan al
 
 Kotlin-ohjelmoinnin peruskurssi on suoritettavissa täysin ajasta ja paikasta riippumatta. Kurssi suoritetaan käymällä itsenäisesti kukin osa läpi ja tekemällä osiin liittyvät tehtävät.
 
+Voit suorittaa kurssin tavallisella kannettavalla tietokoneella tai mobiililaitteella. Sivusto on toimii parhaiten Chrome, Firefox, Edge ja Safari-selaimilla.
+
 ## Sisältö
 
 Tämä Kotlin-ohjelmoinnin peruskurssi koostuu 5 osasta. Kurssimateriaali etenee loogisesti, joten opiskelu kannattaa aloittaa ensimmäisestä osasta. Kunkin osan teorian opiskeluun ja tehtävien tekoon kannattaa varata aikaa osiosta riippuen noin 2-10 tuntia. Alla olevasta taulokosta näet osion opiskeluun menevän ohjeellisen ajan.
