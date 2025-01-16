@@ -43,7 +43,7 @@ Lisäksi jokainen kurssin osa sisältää vähintään yhden Guru-tehtävän, jo
 
 ![Opettaja](kuvat/opettaja.png "Opettaja")
 
-Kurssin opettajana toimii testiautomaatiokehittäjänä työskentelevä Teija Alasalmi. Teijalla on yli 16 vuoden kokemus ohjelmistotestauksesta sekä ohjelmistojen kehittämistä ketterillä menetelmillä, ja hän koodaa sekä opiskelee koodaamista myös vapaa-ajallaan.
+Kurssin opettajana toimii testiautomaatiokehittäjänä työskentelevä Teija Alasalmi. Teijalla on 20 vuoden kokemus ohjelmistotestauksesta sekä ohjelmistojen kehittämistä ketterillä menetelmillä, ja hän koodaa sekä opiskelee koodaamista myös vapaa-ajallaan.
 
 Mikäli huomaat kurssimateriaalissa virheitä, tai jäät jumiin johonkin tehtävään, ota yhteyttä teija.alasalmi (at) gmail.com
 
